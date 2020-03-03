@@ -1,0 +1,770 @@
+[
+    {
+        "grid1": {
+            "coords": [
+                1,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid2": {
+            "coords": [
+                1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Attack",
+            "effectValue": 5,
+            "effectDescription": "Attack 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid3": {
+            "coords": [
+                0,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid4": {
+            "coords": [
+               -1,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid5": {
+            "coords": [
+                -1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid6": {
+            "coords": [
+                0,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid7": {
+            "coords": [
+                1,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid8": {
+            "coords": [
+                2,
+                -3
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid9": {
+            "coords": [
+                3,
+                -4
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid10": {
+            "coords": [
+                1,
+                -3
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Heat Wave: Power",
+            "effectValue": 3,
+            "effectDescription": "Heat Wave: Power ↑ 3",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid11": {
+            "coords": [
+                2,
+                -4
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Attack",
+            "effectValue": 20,
+            "effectDescription": "Attack 20",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid12": {
+            "coords": [
+                3,
+                -5
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Heat Wave: Power",
+            "effectValue": 3,
+            "effectDescription": "Heat Wave: Power ↑ 3",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid13": {
+            "coords": [
+                1,
+                -4
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Heat Wave: Power",
+            "effectValue": 3,
+            "effectDescription": "Heat Wave: Power ↑ 3",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid14": {
+            "coords": [
+                2,
+                -5
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Dire Hit +: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Dire Hit + Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid15": {
+            "coords": [
+                3,
+                -6
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Heat Wave: Power",
+            "effectValue": 3,
+            "effectDescription": "Heat Wave: Power ↑ 3",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid16": {
+            "coords": [
+                1,
+                -5
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Heat Wave: Power",
+            "effectValue": 3,
+            "effectDescription": "Heat Wave: Power ↑ 3",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid17": {
+            "coords": [
+                2,
+                -6
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Heat Wave: Power",
+            "effectValue": 3,
+            "effectDescription": "Heat Wave: Power ↑ 3",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid18": {
+            "coords": [
+                -1,
+                2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid19": {
+            "coords": [
+                -2,
+                3
+            ],
+            "colour": "green",
+            "iconType": "fire",   
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Flare Blitz: Power",
+            "effectValue": 6,
+            "effectDescription": "Flare Blitz: Power ↑ 6",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid20": {
+            "coords": [
+                -3,
+                4
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Flare Blitz: Power",
+            "effectValue": 6,
+            "effectDescription": "Flare Blitz: Power ↑ 6",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid21": {
+            "coords": [
+                -1,
+                3
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Flare Blitz: Power",
+            "effectValue": 6,
+            "effectDescription": "Flare Blitz: Power ↑ 6",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid22": {
+            "coords": [
+                -2,
+                4
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "My Destiny!: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: My Destiny! Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid23": {
+            "coords": [
+                -3,
+                5
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Standfast",
+            "effectValue": 5,
+            "effectDescription": "Reduces recoil damage received from using moves that have recoil in the effect tag.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid24": {
+            "coords": [
+                -1,
+                4
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Flare Blitz: Power",
+            "effectValue": 6,
+            "effectDescription": "Flare Blitz: Power ↑ 6",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid25": {
+            "coords": [
+                -2,
+                5
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid26": {
+            "coords": [
+                -3,
+                6
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Haymaker",
+            "effectValue": 0,
+            "effectDescription": "The more the user’s Attack has been raised, the more it powers up sync moves.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid27": {
+            "coords": [
+                -2,
+                6
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Standfast",
+            "effectValue": 5,
+            "effectDescription": "Reduces recoil damage received from using moves that have recoil in the effect tag.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid28": {
+            "coords": [
+                -1,
+                5
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Adrenaline",
+            "effectValue": 1,
+            "effectDescription": "Reduces the sync move countdown by one when a sync move is used for the first time.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid29": {
+            "coords": [
+                2,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Speed",
+            "effectValue": 10,
+            "effectDescription": "Speed 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid30": {
+            "coords": [
+                3,
+                -1
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Blast Burn: Power",
+            "effectValue": 4,
+            "effectDescription": "Blast Burn: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid31": {
+            "coords": [
+                2,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Speed",
+            "effectValue": 10,
+            "effectDescription": "Speed 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid32": {
+            "coords": [
+                1,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Speed",
+            "effectValue": 10,
+            "effectDescription": "Speed 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid33": {
+            "coords": [
+                3,
+                0
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Blast Burn: Power",
+            "effectValue": 4,
+            "effectDescription": "Blast Burn: Power ↑ 4",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid34": {
+            "coords": [
+                2,
+                1
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Power Reserves",
+            "effectValue": 2,
+            "effectDescription": "Powers up moves in a pinch.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid35": {
+            "coords": [
+                1,
+                2
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Blast Burn: Power",
+            "effectValue": 4,
+            "effectDescription": "Blast Burn: Power ↑ 4",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid36": {
+            "coords": [
+                3,
+                1
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Rejuvenate",
+            "effectValue": 6,
+            "effectDescription": "Increases the user’s move gauge by six after using a sync move.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid37": {
+            "coords": [
+                2,
+                2
+            ],
+            "colour": "green",
+            "iconType": "fire",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Blast Burn: Power",
+            "effectValue": 4,
+            "effectDescription": "Blast Burn: Power ↑ 4",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid38": {
+            "coords": [
+                -2,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid39": {
+            "coords": [
+                -3,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid40": {
+            "coords": [
+                -2,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid41": {
+            "coords": [
+                -1,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid42": {
+            "coords": [
+                -3,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid43": {
+            "coords": [
+                -2,
+                -1
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "My Destiny!: Stat’s Quo",
+            "effectValue": 4,
+            "effectDescription": "Move: My Destiny! Has a good chance of returning the user’s lowered stats to normal when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid44": {
+            "coords": [
+                -1,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid45": {
+            "coords": [
+                -3,
+                -1
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Solar Flare",
+            "effectValue": 5,
+            "effectDescription": "Powers up sync moves when the weather is sunny.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid46": {
+            "coords": [
+                -2,
+                -2
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Speeding Sun",
+            "effectValue": 2,
+            "effectDescription": "Quickly charges the move gauge when the weather is sunny.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid47": {
+            "coords": [
+                0,
+                -3
+            ],
+            "colour": "sync",
+            "iconType": "syncmove",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Living Legend Blast Burn: Power",
+            "effectValue": 25,
+            "effectDescription": "Living Legend Blast Burn: Power ↑ 25",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid48": {
+            "coords": [
+                0,
+                3
+            ],
+            "colour": "sync",
+            "iconType": "syncmove",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Living Legend Blast Burn: Power",
+            "effectValue": 25,
+            "effectDescription": "Living Legend Blast Burn: Power ↑ 25",
+            "syncLevel": 3
+        }
+    }
+]

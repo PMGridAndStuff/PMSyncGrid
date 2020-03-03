@@ -1,0 +1,228 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+}
+.syncGrid{
+  background-color: #c8e4f4;
+  background-image: url(./assets/backgrounds/background1.png);
+  height: 100vh;
+  width: 100vw;
+}
+.grids {
+  /*width: 80px;*/
+  /*resizeMode: 'contain';*/
+  /*height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;*/
+
+}
+
+
+.center-grid {
+    /*text-align: center;*/
+
+}
+
+.bottom-right-grid {
+    position: absolute;
+    top: 50%;
+    left: 75%;
+}
+
+.grids {
+  height: 100vh;
+  width: 100vw;
+
+  zoom: 0.6;
+  -moz-transform: scale(0.6);
+
+  /*
+  position: relative;
+  overflow: scroll;
+  */
+}
+
+.singleGrid {
+
+  position: absolute;
+
+
+  display: flex;
+  max-width: 100vh;
+  height:auto;
+
+  top: 50%;
+  left: 40%;
+}
+
+
+.singleGridInfo {
+  position: absolute;
+
+
+}
+
+/*.syncLocks {
+    position: absolute;
+    display: flex;
+
+    bottom: 25%;
+    left: 30%;
+    width: 100%;
+
+    z-index: 1;
+
+}
+
+.syncLocks img{
+  opacity: 100%;
+}
+*/
+
+
+
+.boostSymbol {
+  position: absolute;
+  top: 28%;
+  left: 31%;
+
+  display: flex;
+
+  z-index: 2;
+}
+.boostSymbol img{
+  vertical-align: middle;
+  height: 70%;
+
+  width: 70%;
+
+}
+
+.hoverOverlay{
+  position: absolute;
+  top: -8%;
+  left: -7%;
+
+  display: flex;
+  width: 111%;
+
+ 
+}
+
+
+.selectedOverlay{
+  position: absolute;
+  top: 5%;
+  left: 6%;
+
+  z-index: 3;
+
+}
+
+.tooltip {
+    position: absolute;
+}
+
+.info {
+    position: absolute;
+}
+
+.sidebarGroup {
+  display: block;
+  margin: 20px;
+}
+
+.sidebarElement {
+    padding: 3px;
+    display: flex;
+}
+.sidebarElement img{
+
+  margin-left: 10px;
+  padding: 5px;
+  padding-right: 15px;
+  width: 70%;
+
+  max-width: 28px;
+}
+
+.sidebarText {
+    display: inline;
+    padding: 7px;
+}
+
+
+.borderImage {
+    display: flex;
+    margin: 20px;
+
+}
+.borderImage img{
+    margin: 20px;
+
+    object-fit: cover;
+}
+
+.menu-item img{
+    max-width: 70px;
+}
+
+
+.currentTrainer {
+    position: absolute;
+    display: flex;
+
+    bottom: 0%;
+    right: 0%;
+
+
+}
+.currentTrainer img{
+    max-width: 256px;
+    height: auto;
+    width: 20vw;
+}   
+
+.currentPokemon {
+    position: absolute;
+    display: flex;
+
+    bottom: 0%;
+
+}
+.currentPokemon img{
+    max-width: 256px;
+    height: auto;
+    width: 20vw;
+}   
+
+
+@media (max-height: 900px) and (max-width: 960px) {
+  .grids {
+    zoom: 0.3;
+    -moz-transform: scale(0.3);
+  }
+
+  .boostSymbol {
+
+  }
+
+  .currentTrainer img{
+    max-width: 256px;
+    height: 20vw;
+    width: 20vw;
+  }   
+  .currentPokemon img{
+    max-width: 256px;
+    height: 20vw;
+    width: 20vw;
+
+  }
+}

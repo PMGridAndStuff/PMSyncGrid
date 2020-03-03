@@ -1,0 +1,770 @@
+[
+    {
+        "grid1": {
+            "coords": [
+                1,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid2": {
+            "coords": [
+                1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Attack",
+            "effectValue": 5,
+            "effectDescription": "Attack 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid3": {
+            "coords": [
+                0,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid4": {
+            "coords": [
+                -1,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid5": {
+            "coords": [
+                -1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid6": {
+            "coords": [
+                0,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid7": {
+            "coords": [
+                1,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid8": {
+            "coords": [
+                2,
+                -3
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid9": {
+            "coords": [
+                1,
+                -3
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Attack",
+            "effectValue": 5,
+            "effectDescription": "Attack 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid10": {
+            "coords": [
+                3,
+                -4
+            ],
+            "colour": "green",
+            "iconType": "dark",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Dark Pulse: Power",
+            "effectValue": 4,
+            "effectDescription": "Dark Pulse: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid11": {
+            "coords": [
+                2,
+                -4
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid12": {
+            "coords": [
+                1,
+                -4
+            ],
+            "colour": "green",
+            "iconType": "dark",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Night Slash: Power",
+            "effectValue": 5,
+            "effectDescription": "Night Slash: Power ↑ 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid13": {
+            "coords": [
+                3,
+                -5
+            ],
+            "colour": "green",
+            "iconType": "dark",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Dark Pulse: Power",
+            "effectValue": 4,
+            "effectDescription": "Dark Pulse: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid14": {
+            "coords": [
+                2,
+                -5
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "All or Nothing!: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: All or Nothing! Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid15": {
+            "coords": [
+                1,
+                -5
+            ],
+            "colour": "green",
+            "iconType": "dark",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Night Slash: Power",
+            "effectValue": 5,
+            "effectDescription": "Night Slash: Power ↑ 5",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid16": {
+            "coords": [
+                3,
+                -6
+            ],
+            "colour": "green",
+            "iconType": "dark",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Dark Pulse: Power",
+            "effectValue": 4,
+            "effectDescription": "Dark Pulse: Power ↑ 4",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid17": {
+            "coords": [
+                2,
+                -6
+            ],
+            "colour": "green",
+            "iconType": "dark",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Night Slash: Power",
+            "effectValue": 5,
+            "effectDescription": "Night Slash: Power ↑ 5",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid18": {
+            "coords": [
+                -2,
+                1
+            ],
+            "colour": "green",
+            "iconType": "dark",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Dark Pulse: Power",
+            "effectValue": 4,
+            "effectDescription": "Dark Pulse: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid19": {
+            "coords": [
+                -3,
+                2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid20": {
+            "coords": [
+                -2,
+                2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid21": {
+            "coords": [
+                -3,
+                3
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Snatch: MP Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Snatch Occasionally restores one MP of the move used if the move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid22": {
+            "coords": [
+                -1,
+                2
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Night Slash: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Night Slash Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid23": {
+            "coords": [
+                -2,
+                3
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Attack",
+            "effectValue": 10,
+            "effectDescription": "Attack 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid24": {
+            "coords": [
+                -3,
+                4
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Snatch: Catalytic Cure",
+            "effectValue": 4,
+            "effectDescription": "Move: Snatch Has a good chance of restoring the user’s HP when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid25": {
+            "coords": [
+                -1,
+                3
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Snatch: Move Gauge Refresh",
+            "effectValue": 4,
+            "effectDescription": "Move: Snatch Has a good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid26": {
+            "coords": [
+                -2,
+                4
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Snatch: Catalytic Cure",
+            "effectValue": 4,
+            "effectDescription": "Move: Snatch Has a good chance of restoring the user’s HP when a move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid27": {
+            "coords": [
+                2,
+                -1
+            ],
+            "colour": "green",
+            "iconType": "dark",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Night Slash: Power",
+            "effectValue": 5,
+            "effectDescription": "Night Slash: Power ↑ 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid28": {
+            "coords": [
+                3,
+                -1
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 9,
+            "orbCost": 108,
+            "effectName": "Bounce Back",
+            "effectValue": 5,
+            "effectDescription": "Has a very good chance of raising the user’s Attack if any of the user’s stats have been lowered.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid29": {
+            "coords": [
+                2,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid30": {
+            "coords": [
+                1,
+                1
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Dark Pulse: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Dark Pulse Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid31": {
+            "coords": [
+                3,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid32": {
+            "coords": [
+                2,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid33": {
+            "coords": [
+                1,
+                2
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 9,
+            "orbCost": 108,
+            "effectName": "Indomitable",
+            "effectValue": 5,
+            "effectDescription": "Has a very good chance of raising the user’s Sp. Atk if any of the user’s stats have been lowered.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid34": {
+            "coords": [
+                3,
+                1
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "On the Run",
+            "effectValue": 6,
+            "effectDescription": "Once per battle, radically raises the user’s evasiveness in a pinch.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid35": {
+            "coords": [
+                2,
+                2
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Snatch: Move Gauge Refresh",
+            "effectValue": 4,
+            "effectDescription": "Move: Snatch Has a good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid36": {
+            "coords": [
+                -1,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid37": {
+            "coords": [
+                -2,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid38": {
+            "coords": [
+                -1,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid39": {
+            "coords": [
+                -3,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Attack",
+            "effectValue": 5,
+            "effectDescription": "Attack 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid40": {
+            "coords": [
+                -2,
+                -2
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Ridicure",
+            "effectValue": 2,
+            "effectDescription": "Occasionally restores the user’s HP when an opponent’s attack move targeting the user misses.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid41": {
+            "coords": [
+                -3,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Defense",
+            "effectValue": 10,
+            "effectDescription": "Defense 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid42": {
+            "coords": [
+                -1,
+                -3
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid43": {
+            "coords": [
+                -2,
+                -3
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Snatch: MP Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Snatch Occasionally restores one MP of the move used if the move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid44": {
+            "coords": [
+                -3,
+                -3
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Snatch: Propulsion",
+            "effectValue": 4,
+            "effectDescription": "Move: Snatch Has a good of reducing the user’s sync move countdown by one when the user’s move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid45": {
+            "coords": [
+                -1,
+                -4
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Attack",
+            "effectValue": 10,
+            "effectDescription": "Attack 10",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid46": {
+            "coords": [
+                -2,
+                -4
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 9,
+            "orbCost": 108,
+            "effectName": "Supercharger",
+            "effectValue": 2,
+            "effectDescription": "Occasionally raises the user’s Attack and/or Sp. Atk when a move targeting an opponent is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid47": {
+            "coords": [
+                0,
+                -3
+            ],
+            "colour": "sync",
+            "iconType": "syncmove",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Card Shark Night Slash: Power",
+            "effectValue": 25,
+            "effectDescription": "Card Shark Night Slash: Power ↑ 25",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid48": {
+            "coords": [
+                0,
+                3
+            ],
+            "colour": "sync",
+            "iconType": "syncmove",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Card Shark Night Slash: Power",
+            "effectValue": 25,
+            "effectDescription": "Card Shark Night Slash: Power ↑ 25",
+            "syncLevel": 3
+        }
+    }
+]

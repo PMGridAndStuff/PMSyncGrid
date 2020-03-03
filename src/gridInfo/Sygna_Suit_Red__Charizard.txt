@@ -1,0 +1,339 @@
+Cell 1 | Cost: 0 Energy, 5 Sync Orb(s)
+    HP 10
+    HP 10
+
+Cell 2 | Cost: 0 Energy, 5 Sync Orb(s)
+    Attack 5
+    Attack 5
+
+Cell 3 | Cost: 0 Energy, 5 Sync Orb(s)
+    Defense 5
+    Defense 5
+
+Cell 4 | Cost: 0 Energy, 5 Sync Orb(s)
+    Sp. Atk 5
+    Sp. Atk 5
+
+Cell 5 | Cost: 0 Energy, 5 Sync Orb(s)
+    Sp. Def 5
+    Sp. Def 5
+
+Cell 6 | Cost: 0 Energy, 5 Sync Orb(s)
+    Speed 5
+    Speed 5
+
+Cell 7 | Cost: 2 Energy, 24 Sync Orb(s)
+    Sp. Atk 5
+    Sp. Atk 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 8 | Cost: 2 Energy, 24 Sync Orb(s)
+    Sp. Def 5
+    Sp. Def 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 9 | Cost: 2 Energy, 24 Sync Orb(s)
+    Defense 5
+    Defense 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 10 | Cost: 4 Energy, 48 Sync Orb(s)
+    Heat Wave: Power 3
+    Heat Wave: Power ↑ 3
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 11 | Cost: 10 Energy, 120 Sync Orb(s)
+    Attack 20
+    Attack 20
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 12 | Cost: 4 Energy, 48 Sync Orb(s)
+    Heat Wave: Power 3
+    Heat Wave: Power ↑ 3
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 13 | Cost: 4 Energy, 48 Sync Orb(s)
+    Heat Wave: Power 3
+    Heat Wave: Power ↑ 3
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 14 | Cost: 7 Energy, 84 Sync Orb(s)
+    Dire Hit +: MP Refresh 3
+    Move: Dire Hit + Has a moderately good chance of restoring one MP of the move used if the move is successful.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 15 | Cost: 5 Energy, 60 Sync Orb(s)
+    Heat Wave: Power 3
+    Heat Wave: Power ↑ 3
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 16 | Cost: 5 Energy, 60 Sync Orb(s)
+    Heat Wave: Power 3
+    Heat Wave: Power ↑ 3
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 17 | Cost: 5 Energy, 60 Sync Orb(s)
+    Heat Wave: Power 3
+    Heat Wave: Power ↑ 3
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 18 | Cost: 2 Energy, 24 Sync Orb(s)
+    Speed 5
+    Speed 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 19 | Cost: 3 Energy, 36 Sync Orb(s)
+    Flare Blitz: Power 6
+    Flare Blitz: Power ↑ 6
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 20 | Cost: 3 Energy, 36 Sync Orb(s)
+    Flare Blitz: Power 6
+    Flare Blitz: Power ↑ 6
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 21 | Cost: 3 Energy, 36 Sync Orb(s)
+    Flare Blitz: Power 6
+    Flare Blitz: Power ↑ 6
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 22 | Cost: 7 Energy, 84 Sync Orb(s)
+    My Destiny!: MP Refresh 3
+    Move: My Destiny! Has a moderately good chance of restoring one MP of the move used if the move is successful.
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 23 | Cost: 6 Energy, 72 Sync Orb(s)
+    Standfast 5
+    Reduces recoil damage received from using moves that have recoil in the effect tag.
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 24 | Cost: 3 Energy, 36 Sync Orb(s)
+    Flare Blitz: Power 6
+    Flare Blitz: Power ↑ 6
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 25 | Cost: 5 Energy, 60 Sync Orb(s)
+    HP 20
+    HP 20
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 26 | Cost: 10 Energy, 120 Sync Orb(s)
+    Haymaker
+    The more the user’s Attack has been raised, the more it powers up sync moves.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 27 | Cost: 6 Energy, 72 Sync Orb(s)
+    Standfast 5
+    Reduces recoil damage received from using moves that have recoil in the effect tag.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 28 | Cost: 10 Energy, 120 Sync Orb(s)
+    Adrenaline 1
+    Reduces the sync move countdown by one when a sync move is used for the first time.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 29 | Cost: 4 Energy, 48 Sync Orb(s)
+    Speed 10
+    Speed 10
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 30 | Cost: 5 Energy, 60 Sync Orb(s)
+    Blast Burn: Power 4
+    Blast Burn: Power ↑ 4
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 31 | Cost: 4 Energy, 48 Sync Orb(s)
+    Speed 10
+    Speed 10
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 32 | Cost: 4 Energy, 48 Sync Orb(s)
+    Speed 10
+    Speed 10
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 33 | Cost: 5 Energy, 60 Sync Orb(s)
+    Blast Burn: Power 4
+    Blast Burn: Power ↑ 4
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 34 | Cost: 10 Energy, 120 Sync Orb(s)
+    Power Reserves 2
+    Powers up moves in a pinch.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 35 | Cost: 5 Energy, 60 Sync Orb(s)
+    Blast Burn: Power 4
+    Blast Burn: Power ↑ 4
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 36 | Cost: 10 Energy, 120 Sync Orb(s)
+    Rejuvenate 6
+    Increases the user’s move gauge by six after using a sync move.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 37 | Cost: 5 Energy, 60 Sync Orb(s)
+    Blast Burn: Power 4
+    Blast Burn: Power ↑ 4
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 38 | Cost: 4 Energy, 48 Sync Orb(s)
+    Sp. Atk 5
+    Sp. Atk 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 39 | Cost: 3 Energy, 36 Sync Orb(s)
+    Defense 5
+    Defense 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 40 | Cost: 3 Energy, 36 Sync Orb(s)
+    Speed 5
+    Speed 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 41 | Cost: 3 Energy, 36 Sync Orb(s)
+    Sp. Def 5
+    Sp. Def 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 42 | Cost: 4 Energy, 48 Sync Orb(s)
+    Sp. Atk 5
+    Sp. Atk 5
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 43 | Cost: 10 Energy, 120 Sync Orb(s)
+    My Destiny!: Stat’s Quo 4
+    Move: My Destiny! Has a good chance of returning the user’s lowered stats to normal when a move is successful.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 44 | Cost: 4 Energy, 48 Sync Orb(s)
+    Sp. Atk 5
+    Sp. Atk 5
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 45 | Cost: 10 Energy, 120 Sync Orb(s)
+    Solar Flare 5
+    Powers up sync moves when the weather is sunny.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 46 | Cost: 8 Energy, 96 Sync Orb(s)
+    Speeding Sun 2
+    Quickly charges the move gauge when the weather is sunny.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 47 | Cost: 5 Energy, 60 Sync Orb(s)
+    Living Legend Blast Burn: Power 25
+    Living Legend Blast Burn: Power ↑ 25
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 48 | Cost: 5 Energy, 60 Sync Orb(s)
+    Living Legend Blast Burn: Power 25
+    Living Legend Blast Burn: Power ↑ 25
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 28 February 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC

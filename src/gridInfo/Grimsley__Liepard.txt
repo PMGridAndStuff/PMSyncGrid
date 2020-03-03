@@ -1,0 +1,339 @@
+Cell 1 | Cost: 0 Energy, 5 Sync Orb(s)
+    HP 10
+    HP 10
+
+Cell 2 | Cost: 0 Energy, 5 Sync Orb(s)
+    Attack 5
+    Attack 5
+
+Cell 3 | Cost: 0 Energy, 5 Sync Orb(s)
+    Defense 5
+    Defense 5
+
+Cell 4 | Cost: 0 Energy, 5 Sync Orb(s)
+    Sp. Atk 5
+    Sp. Atk 5
+
+Cell 5 | Cost: 0 Energy, 5 Sync Orb(s)
+    Sp. Def 5
+    Sp. Def 5
+
+Cell 6 | Cost: 0 Energy, 5 Sync Orb(s)
+    Speed 5
+    Speed 5
+
+Cell 7 | Cost: 2 Energy, 24 Sync Orb(s)
+    Speed 5
+    Speed 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 8 | Cost: 2 Energy, 24 Sync Orb(s)
+    Sp. Atk 5
+    Sp. Atk 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 9 | Cost: 2 Energy, 24 Sync Orb(s)
+    Attack 5
+    Attack 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 10 | Cost: 4 Energy, 48 Sync Orb(s)
+    Dark Pulse: Power 4
+    Dark Pulse: Power ↑ 4
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 11 | Cost: 2 Energy, 24 Sync Orb(s)
+    Speed 5
+    Speed 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 12 | Cost: 4 Energy, 48 Sync Orb(s)
+    Night Slash: Power 5
+    Night Slash: Power ↑ 5
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 13 | Cost: 4 Energy, 48 Sync Orb(s)
+    Dark Pulse: Power 4
+    Dark Pulse: Power ↑ 4
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 14 | Cost: 7 Energy, 84 Sync Orb(s)
+    All or Nothing!: MP Refresh 3
+    Move: All or Nothing! Has a moderately good chance of restoring one MP of the move used if the move is successful.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 15 | Cost: 4 Energy, 48 Sync Orb(s)
+    Night Slash: Power 5
+    Night Slash: Power ↑ 5
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 16 | Cost: 4 Energy, 48 Sync Orb(s)
+    Dark Pulse: Power 4
+    Dark Pulse: Power ↑ 4
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 17 | Cost: 4 Energy, 48 Sync Orb(s)
+    Night Slash: Power 5
+    Night Slash: Power ↑ 5
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 18 | Cost: 4 Energy, 48 Sync Orb(s)
+    Dark Pulse: Power 4
+    Dark Pulse: Power ↑ 4
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 19 | Cost: 2 Energy, 24 Sync Orb(s)
+    Speed 5
+    Speed 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 20 | Cost: 2 Energy, 24 Sync Orb(s)
+    Speed 5
+    Speed 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 21 | Cost: 5 Energy, 60 Sync Orb(s)
+    Snatch: MP Refresh 2
+    Move: Snatch Occasionally restores one MP of the move used if the move is successful.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 22 | Cost: 6 Energy, 72 Sync Orb(s)
+    Night Slash: Move Gauge Refresh 3
+    Move: Night Slash Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 23 | Cost: 5 Energy, 60 Sync Orb(s)
+    Attack 10
+    Attack 10
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 24 | Cost: 7 Energy, 84 Sync Orb(s)
+    Snatch: Catalytic Cure 4
+    Move: Snatch Has a good chance of restoring the user’s HP when a move is successful.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 25 | Cost: 5 Energy, 60 Sync Orb(s)
+    Snatch: Move Gauge Refresh 4
+    Move: Snatch Has a good chance of increasing the user’s move gauge by one when a move is successful.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 26 | Cost: 7 Energy, 84 Sync Orb(s)
+    Snatch: Catalytic Cure 4
+    Move: Snatch Has a good chance of restoring the user’s HP when a move is successful.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 27 | Cost: 4 Energy, 48 Sync Orb(s)
+    Night Slash: Power 5
+    Night Slash: Power ↑ 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 28 | Cost: 9 Energy, 108 Sync Orb(s)
+    Bounce Back 5
+    Has a very good chance of raising the user’s Attack if any of the user’s stats have been lowered.
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 29 | Cost: 2 Energy, 24 Sync Orb(s)
+    Sp. Def 5
+    Sp. Def 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 30 | Cost: 6 Energy, 72 Sync Orb(s)
+    Dark Pulse: Move Gauge Refresh 3
+    Move: Dark Pulse Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 31 | Cost: 2 Energy, 24 Sync Orb(s)
+    Sp. Def 5
+    Sp. Def 5
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 32 | Cost: 2 Energy, 24 Sync Orb(s)
+    Defense 5
+    Defense 5
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 33 | Cost: 9 Energy, 108 Sync Orb(s)
+    Indomitable 5
+    Has a very good chance of raising the user’s Sp. Atk if any of the user’s stats have been lowered.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 34 | Cost: 8 Energy, 96 Sync Orb(s)
+    On the Run 6
+    Once per battle, radically raises the user’s evasiveness in a pinch.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 35 | Cost: 5 Energy, 60 Sync Orb(s)
+    Snatch: Move Gauge Refresh 4
+    Move: Snatch Has a good chance of increasing the user’s move gauge by one when a move is successful.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 36 | Cost: 2 Energy, 24 Sync Orb(s)
+    HP 10
+    HP 10
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 37 | Cost: 2 Energy, 24 Sync Orb(s)
+    Sp. Atk 5
+    Sp. Atk 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 38 | Cost: 2 Energy, 24 Sync Orb(s)
+    Sp. Atk 5
+    Sp. Atk 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 39 | Cost: 2 Energy, 24 Sync Orb(s)
+    Attack 5
+    Attack 5
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 40 | Cost: 10 Energy, 120 Sync Orb(s)
+    Ridicure 2
+    Occasionally restores the user’s HP when an opponent’s attack move targeting the user misses.
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 41 | Cost: 4 Energy, 48 Sync Orb(s)
+    Defense 10
+    Defense 10
+    1 or more adjacent tiles must be activated
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 42 | Cost: 2 Energy, 24 Sync Orb(s)
+    Speed 5
+    Speed 5
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 43 | Cost: 5 Energy, 60 Sync Orb(s)
+    Snatch: MP Refresh 2
+    Move: Snatch Occasionally restores one MP of the move used if the move is successful.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 44 | Cost: 10 Energy, 120 Sync Orb(s)
+    Snatch: Propulsion 4
+    Move: Snatch Has a good of reducing the user’s sync move countdown by one when the user’s move is successful.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 2 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 45 | Cost: 5 Energy, 60 Sync Orb(s)
+    Attack 10
+    Attack 10
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 46 | Cost: 9 Energy, 108 Sync Orb(s)
+    Supercharger 2
+    Occasionally raises the user’s Attack and/or Sp. Atk when a move targeting an opponent is successful.
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 47 | Cost: 5 Energy, 60 Sync Orb(s)
+    Card Shark Night Slash: Power 25
+    Card Shark Night Slash: Power ↑ 25
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
+
+Cell 48 | Cost: 5 Energy, 60 Sync Orb(s)
+    Card Shark Night Slash: Power 25
+    Card Shark Night Slash: Power ↑ 25
+    1 or more adjacent tiles must be activated
+    Sync move must be Lv. 3 or higher
+    Visible from: Friday, 06 March 2020 at 06:00:00 UTC
+Until: Wednesday, 01 January 3000 at 06:00:00 UTC
