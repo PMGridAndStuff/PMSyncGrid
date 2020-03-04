@@ -1,8 +1,11 @@
 import React from 'react';
 import * as hexHelper from './hexagons.js';
 
+import ReactToolTip from 'react-tooltip';
+
 import hover from './assets/selected.png';
 import selectedOverlay from './assets/selected_transparent.png';
+
 class SyncHexagon extends React.Component {
   constructor(props){
     super(props);
@@ -63,6 +66,10 @@ class SyncHexagon extends React.Component {
     return
   }
 
+  componentDidMount(){
+    ReactToolTip.rebuild();
+  }
+
   //Unused
   renderSyncLocks(image){
     if (this.props.syncLevel === 3){
@@ -87,8 +94,6 @@ class SyncHexagon extends React.Component {
   }
 
   render () {
-    // console.log(this.state.isSelected + this.state.gridNumber.toString());
-  //alt={this.state.coords.q + ' , ' + this.state.coords.r}/>
     return (
       <div className='singleGrid'
         data-tip = {this.state.info}
