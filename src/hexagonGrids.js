@@ -41,9 +41,9 @@ class HexagonGrids extends React.Component {
       //Change key to update if reset button is clicked
       const update = this.props.hexagonsClicked.includes(gridNumber) ? "yes" : '';
       return (
-        <div key={'div' + q.toString() + r.toString() + update}>
+        // <div key={'div' + q.toString() + r.toString() + update}>
         <SyncHexagon
-          key = {[q,r]}
+          key = {[q,r] + update}
           info = {info}
           syncLevel = {syncLevel}
           gridNumber = {gridNumber}
@@ -58,10 +58,9 @@ class HexagonGrids extends React.Component {
           boostIconGrey = {iconType ? images.icons[iconType][1] : null}
           onClick = {() => this.props.singleGridClicked(gridNumber)}
           //onHover={(i) => this.handleMouseHover(i)}
-          // isSelected = {this.props.hexagonsClicked.includes(gridNumber.toString())}
           isSelected = {this.props.hexagonsClicked.includes(gridNumber)}
         />
-        </div>
+        // </div>
       )
     } else {
       return (
@@ -86,11 +85,11 @@ class HexagonGrids extends React.Component {
     if (addingNewGridDebug) {
       for (let i = -7; i < 7; i++){
         for (let j = -7; j < 7; j++){
-          hexagonList.push(this.renderHexagon(-1, -1, -1, layout, i, j, "blue", null));
+          hexagonList.push([-1, -1, -1, layout, i, j, "blue", null]);
         }
       }
     } else {
-      hexagonList.push(this.renderHexagon(-1,-1, -1, layout, 0, 0));
+      hexagonList.push([-1,-1, -1, layout, 0, 0]);
     }
 
     for (let elementNum in gridInfo){
@@ -120,17 +119,20 @@ class HexagonGrids extends React.Component {
         const colour = singleGrid.colour;
         const iconType = singleGrid.iconType;
 
-        hexagonList.push(this.renderHexagon(parseInt(elementNum), info, syncLevel,
-          layout, q, r, colour, iconType));
+        hexagonList.push([parseInt(elementNum), info, syncLevel,
+          layout, q, r, colour, iconType]);
     }
     return hexagonList;
   }
 
   render() {
+    const allHexagons = this.state.hexagonList.map(singleHexagon => {
+      return this.renderHexagon(...singleHexagon);
+    });
     return (
       <div id="syncGrid" className="syncGrid">
         <div className="grids">
-          {this.generateHexagon(this.props.gridInfo)}
+          {allHexagons}
         </div>
         <ReactToolTip place="top" type="dark" effect="float" multiline={true}/>
 
