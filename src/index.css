@@ -127,11 +127,11 @@ body {
 }
 
 .tooltip {
-    position: absolute;
+  position: absolute;
 }
 
 .info {
-    position: absolute;
+  position: absolute;
 }
 
 .sidebarGroup {
@@ -140,8 +140,8 @@ body {
 }
 
 .sidebarElement {
-    padding: 3px;
-    display: flex;
+  padding: 3px;
+  display: flex;
 }
 .sidebarElement img{
 
@@ -154,53 +154,54 @@ body {
 }
 
 .sidebarText {
-    display: inline;
-    padding: 7px;
+  display: inline;
+  padding: 7px;
 }
 
 
 .borderImage {
-    display: flex;
-    margin: 20px;
+  display: flex;
+  margin: 20px;
 
 }
 .borderImage img{
-    margin: 20px;
+  margin: 20px;
 
-    object-fit: cover;
+  object-fit: cover;
 }
 
 .menu-item img{
-    max-width: 70px;
+
+  max-width: 70px;
 }
 
 
 .currentTrainer {
-    position: absolute;
-    display: flex;
+  position: absolute;
+  display: flex;
 
-    bottom: 0%;
-    right: 0%;
+  bottom: 0%;
+  right: 0%;
 
 
 }
 .currentTrainer img{
-    max-width: 256px;
-    height: auto;
-    width: 20vw;
+  max-width: 256px;
+  height: auto;
+  width: 20vw;
 }   
 
 .currentPokemon {
-    position: absolute;
-    display: flex;
+  position: absolute;
+  display: flex;
 
-    bottom: 0%;
+  bottom: 0%;
 
 }
 .currentPokemon img{
-    max-width: 256px;
-    height: auto;
-    width: 20vw;
+  max-width: 256px;
+  height: auto;
+  width: 20vw;
 }   
 
 

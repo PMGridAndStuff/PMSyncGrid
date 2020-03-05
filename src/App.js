@@ -22,6 +22,7 @@ function MenuItem(props) {
   return (
     <div id="trainers" className="menu-item" onClick={() => props.onClick()}>
         {props.trainer + " & " + props.pokemon}
+        <br/>
         <img src={props.trainerPicture} alt=''/>
         <img src={props.pokemonPicture} alt=''/>
     </div>
@@ -106,9 +107,12 @@ class PMSyncGridViewer extends React.Component {
   //Creates the left menu allowing user to pick between grids
   renderTrainerMenu() {
     const trainersMenu = trainerInfo.trainerInfo.map((singleTrainer, index) => {
+      //Custom name for sygna suits
+      const displayName = singleTrainer[0].includes("sygna") ? 
+        "S.S. " + singleTrainer[0].slice(9) : singleTrainer[0];
       return (
         <MenuItem key={"burgermenu" + singleTrainer[0]}
-          trainer = {singleTrainer[0]}
+          trainer = {displayName}
           pokemon = {singleTrainer[1]}
           trainerPicture = {singleTrainer[2]}
           pokemonPicture = {singleTrainer[3]}
@@ -176,8 +180,6 @@ class PMSyncGridViewer extends React.Component {
         <div className="currentPokemon">
           <img src={trainerInfo[this.state.activeGrid][3]} alt=''/>
         </div>
-
-
 
         <Menu pageWrapId={"syncGrid"} outerContainerId={"menuWrapper"} width={350}
           isOpen={this.state.menuOpen}
