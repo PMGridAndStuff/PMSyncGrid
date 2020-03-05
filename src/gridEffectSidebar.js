@@ -62,7 +62,11 @@ class GridEffectSidebar extends React.Component {
     //Create the text that is shown on the right information bar
     let gridTexts = [];
       //Show energy usage
-    gridTexts.push(<div key={"sidebarTextEnergy"} style={{margin: 20}}>{"Energy Cost: " + totalEnergy}</div>);
+    const energyText = totalEnergy < 60 ? 
+      <div key={"sidebarTextEnergy"} style={{margin: 20}}>{"Energy Cost: " + totalEnergy}</div> :
+      <div key={"sidebarTextEnergy"} style={{margin: 20, color: 'red'}}><b>{"Energy Cost: " + totalEnergy}</b></div>;
+
+    gridTexts.push(energyText);
 
       //After finishing aggregating similar effects
       //Each gridEffect[key] has the same icon i.e. should be grouped together

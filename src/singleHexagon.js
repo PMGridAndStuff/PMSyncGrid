@@ -115,7 +115,7 @@ class SyncHexagon extends React.Component {
 
         <div className='boostSymbol'>
           <img src={this.state.isSelected ? this.state.boostIconGrey : this.state.boostIcon}
-           alt={this.state.coords.q + ' , ' + this.state.coords.r} style={{'font-size': 25}}/>
+           alt={this.state.coords.q + ' , ' + this.state.coords.r} style={{fontSize: 25}}/>
         </div>
 
         <div className='hoverOverlay'>
