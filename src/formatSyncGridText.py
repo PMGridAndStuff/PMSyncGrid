@@ -2,8 +2,8 @@ import sys
 import re
 import json
 
-POKEMON_TYPE = "dark"
-REDvYELLOW = "yellow"
+POKEMON_TYPE = "steel"
+REDvYELLOW = "red"
 
 
 blueEffectNames = ["HP", "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed"]
@@ -80,12 +80,11 @@ if __name__ == "__main__" :
         if formattedEffect[0].strip() in blueEffectNames:
             colour = "blue"
             iconType = "stat"
-        elif "Power â†‘" in grid[2]:
+        elif "Power â†‘" in grid[2] or "Accuracy â†‘" in grid[2]:
             colour = "green"
             iconType = POKEMON_TYPE
         #Probably either yellow unique or red unique (Change according to ind. grids probably)
         else:
-            print(grid[2])
             colour = REDvYELLOW
             iconType = "unique"
 

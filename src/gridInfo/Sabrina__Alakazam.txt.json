@@ -1,0 +1,770 @@
+[
+    {
+        "grid1": {
+            "coords": [
+                1,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid2": {
+            "coords": [
+                1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid3": {
+            "coords": [
+                0,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid4": {
+            "coords": [
+                -1,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid5": {
+            "coords": [
+                -1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid6": {
+            "coords": [
+                0,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid7": {
+            "coords": [
+                1,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid8": {
+            "coords": [
+                2,
+                -3
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Psybeam: Power",
+            "effectValue": 4,
+            "effectDescription": "Psybeam: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid9": {
+            "coords": [
+                1,
+                -3
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Psybeam: Power",
+            "effectValue": 4,
+            "effectDescription": "Psybeam: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid10": {
+            "coords": [
+                3,
+                -4
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Psybeam: Power",
+            "effectValue": 4,
+            "effectDescription": "Psybeam: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid11": {
+            "coords": [
+                2,
+                -4
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Speed",
+            "effectValue": 10,
+            "effectDescription": "Speed 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid12": {
+            "coords": [
+                1,
+                -4
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Psybeam: Power",
+            "effectValue": 5,
+            "effectDescription": "Psybeam: Power ↑ 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid13": {
+            "coords": [
+                3,
+                -5
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Psybeam: Power",
+            "effectValue": 5,
+            "effectDescription": "Psybeam: Power ↑ 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid14": {
+            "coords": [
+                2,
+                -5
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Sp. Atk",
+            "effectValue": 20,
+            "effectDescription": "Sp. Atk 20",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid15": {
+            "coords": [
+                1,
+                -5
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Psybeam: Power",
+            "effectValue": 5,
+            "effectDescription": "Psybeam: Power ↑ 5",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid16": {
+            "coords": [
+                3,
+                -6
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Psybeam: Move Gauge Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Psybeam Occasionally increases the user’s move gauge by one when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid17": {
+            "coords": [
+                2,
+                -6
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Psybeam: Move Gauge Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Psybeam Occasionally increases the user’s move gauge by one when a move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid18": {
+            "coords": [
+                -2,
+                2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid19": {
+            "coords": [
+                -3,
+                3
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Psychic: Power",
+            "effectValue": 5,
+            "effectDescription": "Psychic: Power ↑ 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid20": {
+            "coords": [
+                -1,
+                2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid21": {
+            "coords": [
+                -2,
+                3
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Psychic: Move Gauge Refresh",
+            "effectValue": 4,
+            "effectDescription": "Move: Psychic Has a good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid22": {
+            "coords": [
+                -3,
+                4
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Psychic: Power",
+            "effectValue": 5,
+            "effectDescription": "Psychic: Power ↑ 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid23": {
+            "coords": [
+                -1,
+                3
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Psychic: Power",
+            "effectValue": 5,
+            "effectDescription": "Psychic: Power ↑ 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid24": {
+            "coords": [
+                -2,
+                4
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Psychic: Power",
+            "effectValue": 5,
+            "effectDescription": "Psychic: Power ↑ 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid25": {
+            "coords": [
+                -3,
+                5
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Critical Countdown",
+            "effectValue": 1,
+            "effectDescription": "Has a small chance of reducing the sync move countdown by one when the user lands a critical hit.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid26": {
+            "coords": [
+                -1,
+                4
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Recuperation",
+            "effectValue": 1,
+            "effectDescription": "Restores the user’s HP after using a sync move.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid27": {
+            "coords": [
+                1,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid28": {
+            "coords": [
+                2,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid29": {
+            "coords": [
+                1,
+                2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid30": {
+            "coords": [
+                3,
+                1
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Sixth Sense!: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Sixth Sense! Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid31": {
+            "coords": [
+                2,
+                2
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Grand Entry",
+            "effectValue": 1,
+            "effectDescription": "Raises the user’s Sp. Atk when the Pokémon enters a battle.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid32": {
+            "coords": [
+                1,
+                3
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Dire Hit All: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Dire Hit All Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid33": {
+            "coords": [
+                3,
+                2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Atk",
+            "effectValue": 10,
+            "effectDescription": "Sp. Atk 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid34": {
+            "coords": [
+                2,
+                3
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "On the Ropes",
+            "effectValue": 3,
+            "effectDescription": "Reduces damage when the Pokémon is in a pinch and is hit by a physical attack move.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid35": {
+            "coords": [
+                1,
+                4
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Sp. Def",
+            "effectValue": 10,
+            "effectDescription": "Sp. Def 10",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid36": {
+            "coords": [
+                3,
+                3
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Dire Hit All: Critical Squad",
+            "effectValue": 1,
+            "effectDescription": "Move: Dire Hit All Raises the critical-hit rate of all allied sync pairs when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid37": {
+            "coords": [
+                2,
+                4
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Sixth Sense!: Ramp Up",
+            "effectValue": 1,
+            "effectDescription": "Move: Sixth Sense! Raises the user’s Sp. Atk when a move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid38": {
+            "coords": [
+                -2,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid39": {
+            "coords": [
+                -1,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Speed",
+            "effectValue": 10,
+            "effectDescription": "Speed 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid40": {
+            "coords": [
+                -3,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Def",
+            "effectValue": 10,
+            "effectDescription": "Sp. Def 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid41": {
+            "coords": [
+                -2,
+                -1
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Reflect: MP Refresh",
+            "effectValue": 4,
+            "effectDescription": "Move: Reflect Has a good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid42": {
+            "coords": [
+                -1,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Atk",
+            "effectValue": 10,
+            "effectDescription": "Sp. Atk 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid43": {
+            "coords": [
+                -3,
+                -1
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Reflect: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Reflect Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid44": {
+            "coords": [
+                -2,
+                -2
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Reflect: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Reflect Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid45": {
+            "coords": [
+                -1,
+                -3
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Reflect: Pep Rally",
+            "effectValue": 2,
+            "effectDescription": "Move: Reflect Sharply raises the Speed of all allied sync pairs when a move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid46": {
+            "coords": [
+                -3,
+                -2
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Critical Strike",
+            "effectValue": 2,
+            "effectDescription": "Powers up attacks if they become critical hits.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid47": {
+            "coords": [
+                0,
+                -3
+            ],
+            "colour": "sync",
+            "iconType": "sync",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "ESP Prodigy Psywave: Power",
+            "effectValue": 25,
+            "effectDescription": "ESP Prodigy Psywave: Power ↑ 25",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid48": {
+            "coords": [
+                0,
+                3
+            ],
+            "colour": "sync",
+            "iconType": "sync",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "ESP Prodigy Psywave: Power",
+            "effectValue": 25,
+            "effectDescription": "ESP Prodigy Psywave: Power ↑ 25",
+            "syncLevel": 3
+        }
+    }
+]

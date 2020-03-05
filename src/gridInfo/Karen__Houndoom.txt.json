@@ -742,7 +742,7 @@
                 -3
             ],
             "colour": "sync",
-            "iconType": "syncmove",
+            "iconType": "sync",
             "energyCost": 5,
             "orbCost": 60,
             "effectName": "Beguiling Dark Pulse: Power",
@@ -758,7 +758,7 @@
                 3
             ],
             "colour": "sync",
-            "iconType": "syncmove",
+            "iconType": "sync",
             "energyCost": 5,
             "orbCost": 60,
             "effectName": "Beguiling Dark Pulse: Power",

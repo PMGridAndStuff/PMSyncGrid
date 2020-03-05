@@ -57,9 +57,9 @@
             "iconType": "stat",
             "energyCost": 0,
             "orbCost": 5,
-            "effectName": "Sp. Atk",
+            "effectName": "Attack",
             "effectValue": 5,
-            "effectDescription": "Sp. Atk 5",
+            "effectDescription": "Attack 5",
             "syncLevel": 1
         }
     },
@@ -105,9 +105,9 @@
             "iconType": "stat",
             "energyCost": 2,
             "orbCost": 24,
-            "effectName": "Speed",
+            "effectName": "Defense",
             "effectValue": 5,
-            "effectDescription": "Speed 5",
+            "effectDescription": "Defense 5",
             "syncLevel": 1
         }
     },
@@ -121,9 +121,9 @@
             "iconType": "stat",
             "energyCost": 2,
             "orbCost": 24,
-            "effectName": "Sp. Atk",
+            "effectName": "Speed",
             "effectValue": 5,
-            "effectDescription": "Sp. Atk 5",
+            "effectDescription": "Speed 5",
             "syncLevel": 1
         }
     },
@@ -137,9 +137,9 @@
             "iconType": "stat",
             "energyCost": 2,
             "orbCost": 24,
-            "effectName": "Attack",
+            "effectName": "Speed",
             "effectValue": 5,
-            "effectDescription": "Attack 5",
+            "effectDescription": "Speed 5",
             "syncLevel": 1
         }
     },
@@ -149,13 +149,13 @@
                 3,
                 -4
             ],
-            "colour": "green",
-            "iconType": "dark",
-            "energyCost": 4,
-            "orbCost": 48,
-            "effectName": "Dark Pulse: Power",
-            "effectValue": 4,
-            "effectDescription": "Dark Pulse: Power ↑ 4",
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Attack",
+            "effectValue": 5,
+            "effectDescription": "Attack 5",
             "syncLevel": 1
         }
     },
@@ -165,13 +165,13 @@
                 2,
                 -4
             ],
-            "colour": "blue",
-            "iconType": "stat",
-            "energyCost": 2,
-            "orbCost": 24,
-            "effectName": "Speed",
-            "effectValue": 5,
-            "effectDescription": "Speed 5",
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Soothing Sand",
+            "effectValue": 1,
+            "effectDescription": "Restores the Pokémon’s HP whenever it takes an action during a sandstorm.",
             "syncLevel": 1
         }
     },
@@ -181,13 +181,13 @@
                 1,
                 -4
             ],
-            "colour": "green",
-            "iconType": "dark",
-            "energyCost": 4,
-            "orbCost": 48,
-            "effectName": "Night Slash: Power",
-            "effectValue": 5,
-            "effectDescription": "Night Slash: Power ↑ 5",
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "X Defense: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: X Defense Has a moderately good chance of restoring one MP of the move used if the move is successful.",
             "syncLevel": 2
         }
     },
@@ -197,13 +197,13 @@
                 3,
                 -5
             ],
-            "colour": "green",
-            "iconType": "dark",
-            "energyCost": 4,
-            "orbCost": 48,
-            "effectName": "Dark Pulse: Power",
-            "effectValue": 4,
-            "effectDescription": "Dark Pulse: Power ↑ 4",
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
             "syncLevel": 1
         }
     },
@@ -213,13 +213,13 @@
                 2,
                 -5
             ],
-            "colour": "red",
-            "iconType": "unique",
-            "energyCost": 7,
-            "orbCost": 84,
-            "effectName": "All or Nothing!: MP Refresh",
-            "effectValue": 3,
-            "effectDescription": "Move: All or Nothing! Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Attack",
+            "effectValue": 10,
+            "effectDescription": "Attack 10",
             "syncLevel": 2
         }
     },
@@ -229,13 +229,13 @@
                 1,
                 -5
             ],
-            "colour": "green",
-            "iconType": "dark",
-            "energyCost": 4,
-            "orbCost": 48,
-            "effectName": "Night Slash: Power",
-            "effectValue": 5,
-            "effectDescription": "Night Slash: Power ↑ 5",
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Backfire",
+            "effectValue": 1,
+            "effectDescription": "Lowers the Attack and Sp. Atk of all opposing sync pairs just before the user faints.",
             "syncLevel": 3
         }
     },
@@ -245,13 +245,13 @@
                 3,
                 -6
             ],
-            "colour": "green",
-            "iconType": "dark",
-            "energyCost": 4,
-            "orbCost": 48,
-            "effectName": "Dark Pulse: Power",
-            "effectValue": 4,
-            "effectDescription": "Dark Pulse: Power ↑ 4",
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Tough Cookie",
+            "effectValue": 0,
+            "effectDescription": "The more the user’s Defense has been raised, the more it powers up moves.",
             "syncLevel": 2
         }
     },
@@ -261,13 +261,13 @@
                 2,
                 -6
             ],
-            "colour": "green",
-            "iconType": "dark",
-            "energyCost": 4,
-            "orbCost": 48,
-            "effectName": "Night Slash: Power",
-            "effectValue": 5,
-            "effectDescription": "Night Slash: Power ↑ 5",
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Defense",
+            "effectValue": 20,
+            "effectDescription": "Defense 20",
             "syncLevel": 3
         }
     },
@@ -278,12 +278,12 @@
                 1
             ],
             "colour": "green",
-            "iconType": "dark",
-            "energyCost": 4,
-            "orbCost": 48,
-            "effectName": "Dark Pulse: Power",
-            "effectValue": 4,
-            "effectDescription": "Dark Pulse: Power ↑ 4",
+            "iconType": "ghost",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Astonish: Power",
+            "effectValue": 5,
+            "effectDescription": "Astonish: Power ↑ 5",
             "syncLevel": 1
         }
     },
@@ -291,15 +291,14 @@
         "grid19": {
             "coords": [
                 -3,
-                2
-            ],
-            "colour": "blue",
-            "iconType": "stat",
+                2            ],
+            "colour": "green",
+            "iconType": "ghost",
             "energyCost": 2,
             "orbCost": 24,
-            "effectName": "Speed",
+            "effectName": "Astonish: Power",
             "effectValue": 5,
-            "effectDescription": "Speed 5",
+            "effectDescription": "Astonish: Power ↑ 5",
             "syncLevel": 1
         }
     },
@@ -309,13 +308,13 @@
                 -2,
                 2
             ],
-            "colour": "blue",
-            "iconType": "stat",
-            "energyCost": 2,
-            "orbCost": 24,
-            "effectName": "Speed",
-            "effectValue": 5,
-            "effectDescription": "Speed 5",
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Astonish: Aggravation",
+            "effectValue": 1,
+            "effectDescription": "Move: Astonish Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.",
             "syncLevel": 1
         }
     },
@@ -325,13 +324,13 @@
                 -3,
                 3
             ],
-            "colour": "red",
-            "iconType": "unique",
-            "energyCost": 5,
-            "orbCost": 60,
-            "effectName": "Snatch: MP Refresh",
-            "effectValue": 2,
-            "effectDescription": "Move: Snatch Occasionally restores one MP of the move used if the move is successful.",
+            "colour": "green",
+            "iconType": "ghost",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Astonish: Power",
+            "effectValue": 6,
+            "effectDescription": "Astonish: Power ↑ 6",
             "syncLevel": 2
         }
     },
@@ -341,13 +340,13 @@
                 -1,
                 2
             ],
-            "colour": "red",
-            "iconType": "unique",
-            "energyCost": 6,
-            "orbCost": 72,
-            "effectName": "Night Slash: Move Gauge Refresh",
-            "effectValue": 3,
-            "effectDescription": "Move: Night Slash Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "colour": "green",
+            "iconType": "ghost",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Astonish: Power",
+            "effectValue": 5,
+            "effectDescription": "Astonish: Power ↑ 5",
             "syncLevel": 1
         }
     },
@@ -357,13 +356,13 @@
                 -2,
                 3
             ],
-            "colour": "blue",
-            "iconType": "stat",
-            "energyCost": 5,
-            "orbCost": 60,
-            "effectName": "Attack",
-            "effectValue": 10,
-            "effectDescription": "Attack 10",
+            "colour": "green",
+            "iconType": "ghost",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Astonish: Power",
+            "effectValue": 6,
+            "effectDescription": "Astonish: Power ↑ 6",
             "syncLevel": 2
         }
     },
@@ -373,13 +372,13 @@
                 -3,
                 4
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
-            "energyCost": 7,
-            "orbCost": 84,
-            "effectName": "Snatch: Catalytic Cure",
-            "effectValue": 4,
-            "effectDescription": "Move: Snatch Has a good chance of restoring the user’s HP when a move is successful.",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Surging Sand",
+            "effectValue": 5,
+            "effectDescription": "Powers up moves in a sandstorm.",
             "syncLevel": 2
         }
     },
@@ -389,13 +388,13 @@
                 -1,
                 3
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
-            "energyCost": 5,
-            "orbCost": 60,
-            "effectName": "Snatch: Move Gauge Refresh",
-            "effectValue": 4,
-            "effectDescription": "Move: Snatch Has a good chance of increasing the user’s move gauge by one when a move is successful.",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Harry",
+            "effectValue": 5,
+            "effectDescription": "Powers up moves when the target is flinching.",
             "syncLevel": 3
         }
     },
@@ -407,11 +406,11 @@
             ],
             "colour": "red",
             "iconType": "unique",
-            "energyCost": 7,
-            "orbCost": 84,
-            "effectName": "Snatch: Catalytic Cure",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Astonish: Move Gauge Refresh",
             "effectValue": 4,
-            "effectDescription": "Move: Snatch Has a good chance of restoring the user’s HP when a move is successful.",
+            "effectDescription": "Move: Astonish Has a good chance of increasing the user’s move gauge by one when a move is successful.",
             "syncLevel": 3
         }
     },
@@ -421,13 +420,13 @@
                 2,
                 -1
             ],
-            "colour": "green",
-            "iconType": "dark",
-            "energyCost": 4,
-            "orbCost": 48,
-            "effectName": "Night Slash: Power",
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Defense",
             "effectValue": 5,
-            "effectDescription": "Night Slash: Power ↑ 5",
+            "effectDescription": "Defense 5",
             "syncLevel": 1
         }
     },
@@ -436,22 +435,6 @@
             "coords": [
                 3,
                 -1
-            ],
-            "colour": "yellow",
-            "iconType": "unique",
-            "energyCost": 9,
-            "orbCost": 108,
-            "effectName": "Bounce Back",
-            "effectValue": 5,
-            "effectDescription": "Has a very good chance of raising the user’s Attack if any of the user’s stats have been lowered.",
-            "syncLevel": 1
-        }
-    },
-    {
-        "grid29": {
-            "coords": [
-                2,
-                0
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -464,18 +447,34 @@
         }
     },
     {
+        "grid29": {
+            "coords": [
+                2,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Over Here!: MP Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Over Here! Occasionally restores one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
         "grid30": {
             "coords": [
                 1,
                 1
             ],
-            "colour": "red",
-            "iconType": "unique",
-            "energyCost": 6,
-            "orbCost": 72,
-            "effectName": "Dark Pulse: Move Gauge Refresh",
-            "effectValue": 3,
-            "effectDescription": "Move: Dark Pulse Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
             "syncLevel": 1
         }
     },
@@ -487,11 +486,11 @@
             ],
             "colour": "blue",
             "iconType": "stat",
-            "energyCost": 2,
-            "orbCost": 24,
-            "effectName": "Sp. Def",
-            "effectValue": 5,
-            "effectDescription": "Sp. Def 5",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
             "syncLevel": 2
         }
     },
@@ -501,13 +500,13 @@
                 2,
                 1
             ],
-            "colour": "blue",
-            "iconType": "stat",
-            "energyCost": 2,
-            "orbCost": 24,
-            "effectName": "Defense",
-            "effectValue": 5,
-            "effectDescription": "Defense 5",
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Over Here!: MP Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Over Here! Occasionally restores one MP of the move used if the move is successful.",
             "syncLevel": 2
         }
     },
@@ -517,13 +516,13 @@
                 1,
                 2
             ],
-            "colour": "yellow",
-            "iconType": "unique",
-            "energyCost": 9,
-            "orbCost": 108,
-            "effectName": "Indomitable",
-            "effectValue": 5,
-            "effectDescription": "Has a very good chance of raising the user’s Sp. Atk if any of the user’s stats have been lowered.",
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
             "syncLevel": 3
         }
     },
@@ -535,11 +534,11 @@
             ],
             "colour": "yellow",
             "iconType": "unique",
-            "energyCost": 8,
-            "orbCost": 96,
-            "effectName": "On the Run",
-            "effectValue": 6,
-            "effectDescription": "Once per battle, radically raises the user’s evasiveness in a pinch.",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Toughen Up",
+            "effectValue": 4,
+            "effectDescription": "Has a good chance of raising the user’s Defense when the user is hit by an attack move.",
             "syncLevel": 2
         }
     },
@@ -549,13 +548,13 @@
                 2,
                 2
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
-            "energyCost": 5,
-            "orbCost": 60,
-            "effectName": "Snatch: Move Gauge Refresh",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Tighten Up",
             "effectValue": 4,
-            "effectDescription": "Move: Snatch Has a good chance of increasing the user’s move gauge by one when a move is successful.",
+            "effectDescription": "Has a good chance of raising the user’s Sp. Def when the user is hit by an attack move.",
             "syncLevel": 3
         }
     },
@@ -569,9 +568,9 @@
             "iconType": "stat",
             "energyCost": 2,
             "orbCost": 24,
-            "effectName": "HP",
-            "effectValue": 10,
-            "effectDescription": "HP 10",
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
             "syncLevel": 1
         }
     },
@@ -581,13 +580,13 @@
                 -2,
                 -1
             ],
-            "colour": "blue",
-            "iconType": "stat",
-            "energyCost": 2,
-            "orbCost": 24,
-            "effectName": "Sp. Atk",
-            "effectValue": 5,
-            "effectDescription": "Sp. Atk 5",
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Sandstorm: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Sandstorm Has a moderately good chance of restoring one MP of the move used if the move is successful.",
             "syncLevel": 1
         }
     },
@@ -601,9 +600,9 @@
             "iconType": "stat",
             "energyCost": 2,
             "orbCost": 24,
-            "effectName": "Sp. Atk",
-            "effectValue": 5,
-            "effectDescription": "Sp. Atk 5",
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
             "syncLevel": 1
         }
     },
@@ -629,13 +628,13 @@
                 -2,
                 -2
             ],
-            "colour": "yellow",
-            "iconType": "unique",
-            "energyCost": 10,
-            "orbCost": 120,
-            "effectName": "Ridicure",
-            "effectValue": 2,
-            "effectDescription": "Occasionally restores the user’s HP when an opponent’s attack move targeting the user misses.",
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
             "syncLevel": 1
         }
     },
@@ -645,13 +644,13 @@
                 -3,
                 -2
             ],
-            "colour": "blue",
-            "iconType": "stat",
-            "energyCost": 4,
-            "orbCost": 48,
-            "effectName": "Defense",
-            "effectValue": 10,
-            "effectDescription": "Defense 10",
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Sandstorm: Flag Bearer",
+            "effectValue": 9,
+            "effectDescription": "Move: Sandstorm Raises the Attack of all allied sync pairs when the user’s Pokémon uses a move.",
             "syncLevel": 1
         }
     },
@@ -661,13 +660,13 @@
                 -1,
                 -3
             ],
-            "colour": "blue",
-            "iconType": "stat",
-            "energyCost": 2,
-            "orbCost": 24,
-            "effectName": "Speed",
-            "effectValue": 5,
-            "effectDescription": "Speed 5",
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Sand Shelter",
+            "effectValue": 0,
+            "effectDescription": "Protects the Pokémon from damage from a sandstorm.",
             "syncLevel": 2
         }
     },
@@ -679,11 +678,11 @@
             ],
             "colour": "red",
             "iconType": "unique",
-            "energyCost": 5,
-            "orbCost": 60,
-            "effectName": "Snatch: MP Refresh",
-            "effectValue": 2,
-            "effectDescription": "Move: Snatch Occasionally restores one MP of the move used if the move is successful.",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Sandstorm: Focus Group",
+            "effectValue": 4,
+            "effectDescription": "Move: Sandstorm Has a good chance of raising the critical-hit rate of all allied sync pairs when the user’s Pokémon uses a move.",
             "syncLevel": 2
         }
     },
@@ -695,11 +694,11 @@
             ],
             "colour": "red",
             "iconType": "unique",
-            "energyCost": 10,
-            "orbCost": 120,
-            "effectName": "Snatch: Propulsion",
-            "effectValue": 4,
-            "effectDescription": "Move: Snatch Has a good of reducing the user’s sync move countdown by one when the user’s move is successful.",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Sandstorm: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Sandstorm Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
             "syncLevel": 2
         }
     },
@@ -709,13 +708,13 @@
                 -1,
                 -4
             ],
-            "colour": "blue",
-            "iconType": "stat",
+            "colour": "red",
+            "iconType": "unique",
             "energyCost": 5,
             "orbCost": 60,
-            "effectName": "Attack",
-            "effectValue": 10,
-            "effectDescription": "Attack 10",
+            "effectName": "Sandstorm: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Sandstorm Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
             "syncLevel": 3
         }
     },
@@ -725,13 +724,13 @@
                 -2,
                 -4
             ],
-            "colour": "yellow",
-            "iconType": "unique",
-            "energyCost": 9,
-            "orbCost": 108,
-            "effectName": "Supercharger",
-            "effectValue": 2,
-            "effectDescription": "Occasionally raises the user’s Attack and/or Sp. Atk when a move targeting an opponent is successful.",
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Attack",
+            "effectValue": 20,
+            "effectDescription": "Attack 20",
             "syncLevel": 3
         }
     },
@@ -745,9 +744,9 @@
             "iconType": "sync",
             "energyCost": 5,
             "orbCost": 60,
-            "effectName": "Card Shark Night Slash: Power",
+            "effectName": "Never-Ending Royal Nightmare: Power",
             "effectValue": 25,
-            "effectDescription": "Card Shark Night Slash: Power ↑ 25",
+            "effectDescription": "Never-Ending Royal Nightmare: Power ↑ 25",
             "syncLevel": 3
         }
     },
@@ -761,9 +760,9 @@
             "iconType": "sync",
             "energyCost": 5,
             "orbCost": 60,
-            "effectName": "Card Shark Night Slash: Power",
+            "effectName": "Never-Ending Royal Nightmare: Power",
             "effectValue": 25,
-            "effectDescription": "Card Shark Night Slash: Power ↑ 25",
+            "effectDescription": "Never-Ending Royal Nightmare: Power ↑ 25",
             "syncLevel": 3
         }
     }
