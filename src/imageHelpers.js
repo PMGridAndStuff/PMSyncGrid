@@ -40,8 +40,6 @@ import groundSelected from './assets/ground_selected.png'
 import groundGrey from './assets/ground_grey.png' 
 import iceSelected from './assets/ice_selected.png' 
 import iceGrey from './assets/ice_grey.png' 
-import moveSelected from './assets/move_selected.png' 
-import moveGrey from './assets/move_grey.png' 
 import psychicSelected from './assets/psychic_selected.png' 
 import psychicGrey from './assets/psychic_grey.png' 
 import rockSelected from './assets/rock_selected.png' 
@@ -50,6 +48,8 @@ import shadowSelected from './assets/shadow_selected.png'
 import shadowGrey from './assets/shadow_grey.png' 
 import statSelected from './assets/stat_selected.png' 
 import statGrey from './assets/stat_grey.png' 
+import steelSelected from './assets/steel_selected.png' 
+import steelGrey from './assets/steel_grey.png' 
 import syncmoveSelected from './assets/syncmove_selected.png' 
 import syncmoveGrey from './assets/syncmove_grey.png' 
 import trainerSelected from './assets/trainer_selected.png' 
@@ -78,12 +78,12 @@ export const icons = {'bug' : [bugSelected, bugGrey],
  'grass' : [grassSelected, grassGrey], 
  'ground' : [groundSelected, groundGrey], 
  'ice' : [iceSelected, iceGrey], 
- 'move' : [moveSelected, moveGrey], 
  'psychic' : [psychicSelected, psychicGrey], 
  'rock' : [rockSelected, rockGrey], 
  'shadow' : [shadowSelected, shadowGrey], 
  'stat' : [statSelected, statGrey], 
- 'syncmove' : [syncmoveSelected, syncmoveGrey], 
+ 'steel' : [steelSelected, steelGrey],
+ 'sync' : [syncmoveSelected, syncmoveGrey], 
  'trainer' : [trainerSelected, trainerGrey], 
  'unique' : [uniqueSelected, uniqueGrey], 
  'water' : [waterSelected, waterGrey],
