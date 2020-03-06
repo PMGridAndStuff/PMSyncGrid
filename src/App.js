@@ -92,12 +92,14 @@ class PMSyncGridViewer extends React.Component {
 
   //Called after an object on the menu HAS BEEN CLICKED => Change visible grid
   handleMenuClick(name){
-    this.setState({
-      activeGrid: name,
-      //Close the menu after changing the grid
-      menuOpen: false,
-      hexagonsClicked: [],
-    });
+    if (name !== this.state.activeGrid) {
+      this.setState({
+        activeGrid: name,
+        //Close the menu after changing the grid
+        menuOpen: false,
+        hexagonsClicked: [],
+      });
+    }
   }
 
   isMenuOpen(state) {
@@ -111,7 +113,7 @@ class PMSyncGridViewer extends React.Component {
       const displayName = singleTrainer[0].includes("sygna") ? 
         "S.S. " + singleTrainer[0].slice(9) : singleTrainer[0];
       return (
-        <MenuItem key={"burgermenu" + singleTrainer[0]}
+        <MenuItem key={"burgermenuitem" + singleTrainer[0]}
           trainer = {displayName}
           pokemon = {singleTrainer[1]}
           trainerPicture = {singleTrainer[2]}
@@ -131,7 +133,6 @@ class PMSyncGridViewer extends React.Component {
 
 
   render() {
-
     //These are temporary buttons
     const hideSidebarButton =  mql.matches ? null : 
         <button onClick={() => this.onSetSidebarOpen(!this.state.sidebarOpen)}
@@ -159,6 +160,7 @@ class PMSyncGridViewer extends React.Component {
                         hexagonsClicked= {this.state.hexagonsClicked}
                         activeGrid= {this.state.activeGrid}
                       />
+    const trainerMenuItems = this.renderTrainerMenu()
     return (
 
       <div id="menuWrapper" className="menuWrapper">
@@ -181,10 +183,12 @@ class PMSyncGridViewer extends React.Component {
           <img src={trainerInfo[this.state.activeGrid][3]} alt=''/>
         </div>
 
-        <Menu pageWrapId={"syncGrid"} outerContainerId={"menuWrapper"} width={350}
+        <Menu key={this.state.activeGrid + "burgermenu"} //This fixes second "flash" rerender of menu when object is clicked
+          pageWrapId={"syncGrid"} 
+          outerContainerId={"menuWrapper"} width={350}
           isOpen={this.state.menuOpen}
           onStateChange={(state) => this.isMenuOpen(state)}>
-          {this.renderTrainerMenu()}
+          {trainerMenuItems}
         </Menu>
         <HexagonGrids
           key = {this.state.activeGrid}
