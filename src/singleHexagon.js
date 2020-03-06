@@ -12,20 +12,7 @@ class SyncHexagon extends React.Component {
 
     //this.handleMouseHover = this.handleMouseHover.bind(this);
     this.state = {
-      //Used by hover to determine what to render
-      info : props.info,
-      syncLevel: props.syncLevel,
-
-      gridNumber : props.gridNumber,
-      layout : props.layout,
-      coords : props.hexCoords,
       point : hexHelper.hex_to_pixel(props.layout, props.hexCoords),
-
-      bgSelectedImage: props.bgSelectedImage,
-      bgGreyImage : props.bgGreyImage,
-
-      boostIcon : props.boostIcon,
-      boostIconGrey: props.boostIconGrey,
 
       isHovering : false,
       isSelected : props.isSelected,
@@ -97,7 +84,7 @@ class SyncHexagon extends React.Component {
   render () {
     return (
       <div className='singleGrid'
-        data-tip = {this.state.info}
+        data-tip = {this.props.info}
         onClick = {() => {this.props.onClick();
                           this.handleClick();}}
         onMouseEnter={() => this.handleMouseHoverEnter()}
@@ -110,12 +97,12 @@ class SyncHexagon extends React.Component {
           {this.renderSelectedOverlay()}
         </div>
 
-        <img src={this.state.isSelected ? this.state.bgSelectedImage : this.state.bgGreyImage } 
+        <img src={this.state.isSelected ? this.props.bgSelectedImage : this.props.bgGreyImage } 
           alt="Missing bg"/>
 
         <div className='boostSymbol'>
-          <img src={this.state.isSelected ? this.state.boostIconGrey : this.state.boostIcon}
-           alt={this.state.coords.q + ' , ' + this.state.coords.r} style={{fontSize: 25}}/>
+          <img src={this.state.isSelected ? this.props.boostIconGrey : this.props.boostIcon}
+           alt={this.props.hexCoords.q + ' , ' + this.props.hexCoords.r} style={{fontSize: 25}}/>
         </div>
 
         <div className='hoverOverlay'>
