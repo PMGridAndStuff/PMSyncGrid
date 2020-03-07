@@ -1,4 +1,5 @@
 import React from 'react';
+import {BrowserRouter as Router, Switch, Route, useParams} from 'react-router-dom';
 import {reveal as Menu} from 'react-burger-menu';
 import Sidebar from "react-sidebar";
 
@@ -14,8 +15,18 @@ import * as trainerInfo from './trainerInfo.js';
 //import lockImage from './assets/lock_grey.png';
 //import borderImage from'./assets/backgrounds/borderLineSmall.png';
 
-//Set to true and grids will show coordinates to facilitate adding grids
-const currentTrainer = 'karen';
+const NUM_OF_GRIDS = 48;
+const QUERY_STRING_NAME = 'grid=';
+//Default trainer to show
+let currentTrainer = 'karen';
+
+function hex2bin(hex){
+    return (parseInt(hex, 16).toString(2));
+}
+
+function bin2hex(bin){
+  return parseInt(bin, 2).toString(16);
+}
 
 //Single item in the grid choosing menu
 function MenuItem(props) {
@@ -36,9 +47,35 @@ class PMSyncGridViewer extends React.Component {
   constructor(props){
     super(props);
 
+    let hexagonsClicked = [];
+
+    const trainerParam = this.props.match.params.gridName;
+
+    if (trainerParam in trainerInfo){
+      currentTrainer = trainerParam;
+
+      if (props.location.search.includes(QUERY_STRING_NAME)){
+        //Read the query string value
+        let gridHex = props.location.search.slice(QUERY_STRING_NAME.length + 1);
+
+        //Converts hex values back into 
+        gridHex = hex2bin(gridHex).padStart(NUM_OF_GRIDS, '0').split('');
+
+        //Read through array where value = 0 : not clicked and 1 = clicked
+        gridHex.forEach(function(value, index){
+          if (parseInt(value) === 1) {
+            hexagonsClicked.push(index);
+          }
+        });
+      }
+    } else {
+      //No param was given so just add default trainer to url
+      props.history.push('/' + currentTrainer);
+    }
+   
     this.state = {
       activeGrid: currentTrainer,
-      hexagonsClicked: [],
+      hexagonsClicked: hexagonsClicked,
 
       //Control UI elements
       menuOpen: false,
@@ -49,7 +86,6 @@ class PMSyncGridViewer extends React.Component {
     this.onSetSidebarOpen = this.onSetSidebarOpen.bind(this);
     this.mediaQueryChanged = this.mediaQueryChanged.bind(this);
     mql.addListener(this.mediaQueryChanged);
-
   }
 
   //Lift state from each syncHexagon so we can update sidebar
@@ -67,6 +103,23 @@ class PMSyncGridViewer extends React.Component {
         hexagonsClicked : hexagonsClicked,
       });
     }
+
+    //Convert clicked to hex and change the URL
+    let hexagonsToZeroArray = new Array(NUM_OF_GRIDS).fill(0);
+    //Create array in form (if 2, 4 were clicked):
+    //[0,0,1,0,1,0,0......,0]
+    hexagonsClicked.forEach(function(gridNumber, index){
+      hexagonsToZeroArray[gridNumber] = 1;
+    });
+
+    //Convert to hexadecimal
+    const hexagonsToHex = bin2hex(hexagonsToZeroArray.join(''));
+
+    //Update url with current trainer and grid
+    this.props.history.push({
+        search: QUERY_STRING_NAME + hexagonsToHex.padStart(NUM_OF_GRIDS/4, '0')
+      });
+
   }
 
   /* Controls side bar methods: */
@@ -99,6 +152,12 @@ class PMSyncGridViewer extends React.Component {
         menuOpen: false,
         hexagonsClicked: [],
       });
+
+      //Update url with new activeGrid
+      this.props.history.push({
+        pathname: '/' + name,
+      });
+      console.log(this.props.history);
     }
   }
 
@@ -207,10 +266,24 @@ class PMSyncGridViewer extends React.Component {
   }
 }
 
+function Test(){
+  let { id } = useParams();
+  let test = this.props.params;
+
+  return (
+    <div>
+      <h3>ID: {test}</h3>
+    </div>
+  );
+
+}
+
 function App() {
   //let obj = JSON.parse(sygnaSuitRedCharizard);
   return (
-    <PMSyncGridViewer/>
+    <Router>
+      <Route path="/:gridName?" component={PMSyncGridViewer} />
+    </Router>
    );
 }
 
