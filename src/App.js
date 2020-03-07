@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter as Router, Switch, Route, useParams} from 'react-router-dom';
+import {BrowserRouter as Router, Route} from 'react-router-dom';
 import {reveal as Menu} from 'react-burger-menu';
 import Sidebar from "react-sidebar";
 
@@ -264,18 +264,6 @@ class PMSyncGridViewer extends React.Component {
 
     );
   }
-}
-
-function Test(){
-  let { id } = useParams();
-  let test = this.props.params;
-
-  return (
-    <div>
-      <h3>ID: {test}</h3>
-    </div>
-  );
-
 }
 
 function App() {
