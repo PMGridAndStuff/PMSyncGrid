@@ -157,7 +157,6 @@ class PMSyncGridViewer extends React.Component {
       this.props.history.push({
         pathname: '/' + name,
       });
-      console.log(this.props.history);
     }
   }
 
@@ -269,7 +268,7 @@ class PMSyncGridViewer extends React.Component {
 function App() {
   //let obj = JSON.parse(sygnaSuitRedCharizard);
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <Route path="/:gridName?" component={PMSyncGridViewer} />
     </Router>
    );
