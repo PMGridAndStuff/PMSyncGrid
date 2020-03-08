@@ -70,7 +70,7 @@ class PMSyncGridViewer extends React.Component {
       }
     } else {
       //No param was given so just add default trainer to url
-      props.history.push('/' + currentTrainer);
+      props.history.push('/' + currentTrainer + '/');
     }
    
     this.state = {
