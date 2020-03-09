@@ -41,7 +41,7 @@ function MenuItem(props) {
 }
 
 //Width at which the sidebar will remain docked
-const mql = window.matchMedia(`(min-width: 900px)`);
+const mql = window.matchMedia(`(min-width: 1337px)`);
 
 class PMSyncGridViewer extends React.Component {
   constructor(props){
@@ -70,7 +70,7 @@ class PMSyncGridViewer extends React.Component {
       }
     } else {
       //No param was given so just add default trainer to url
-      props.history.push('/' + currentTrainer + '/');
+      props.history.push('/' + currentTrainer);
     }
    
     this.state = {
@@ -226,7 +226,7 @@ class PMSyncGridViewer extends React.Component {
             sidebar={gridTexts}
             open={this.state.sidebarOpen}
             onSetOpen={this.onSetSidebarOpen}
-            styles={{backgroundColor: '#5f705c'}}
+            styles={{root: {bottom: 17}}}
             pullRight={true}
             touch={true}
             docked={this.state.sidebarDocked}

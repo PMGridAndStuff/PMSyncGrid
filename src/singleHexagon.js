@@ -90,7 +90,7 @@ class SyncHexagon extends React.Component {
         onMouseEnter={() => this.handleMouseHoverEnter()}
         onMouseLeave={() => this.handleMouseHoverLeave()}
         style={
-          {transform: `translate(${this.state.point.x}px, ${this.state.point.y}px)`}
+          {transform: `translate(${this.state.point.x+600}px, ${this.state.point.y+600}px)`}
         }
       >
         <div className='selectedOverlay'>

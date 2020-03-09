@@ -17,7 +17,10 @@ const addingNewGridDebug = false;
 //A unique image that is in the middle of all grids
 function CenterHexagon(props){
   return (
-    <div className='singleGrid'>
+    <div className='singleGrid'
+        style={
+          {transform: `translate(${600}px, ${600}px)`}
+        }>
       <img src={addingNewGridDebug ? null : center} alt={props.hexCoords.q + ' , ' + props.hexCoords.r}/>
     </div>
     )
@@ -134,6 +137,7 @@ class HexagonGrids extends React.Component {
         <div className="grids">
           {allHexagons}
         </div>
+
         <ReactToolTip place="top" type="dark" effect="float" multiline={true}/>
 
       </div>
