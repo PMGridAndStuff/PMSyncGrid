@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/PMSyncGrid/precache-manifest.95f7496d1f98edc8a74037d7e23dccc3.js"
+  "/PMSyncGrid/precache-manifest.dcfbc7ccd295dc829104e0b478d6e519.js"
 );
 
 self.addEventListener('message', (event) => {
