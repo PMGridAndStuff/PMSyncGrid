@@ -18,38 +18,21 @@ body {
 
   overflow: auto;
 }
-.grids {
-  /*width: 80px;*/
-  /*resizeMode: 'contain';*/
-  /*height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;*/
 
-}
-
-
-.center-grid {
-    /*text-align: center;*/
-
-}
 
 .grids {
+  display: block;
+  max-width: 1400px;
   height: 100%;
   width: 100%;
 
 
-/*  top: 30%;
-  left: 30%;*/
-  transform: scale(0.6);
-/*
-  zoom: 0.6;*/
-
-  /*
   position: relative;
-  overflow: scroll;
-  */
+  top: -10%;
+
+  margin: auto;
+  transform: scale(0.6);
+
 }
 
 .singleGrid {
@@ -156,7 +139,6 @@ body {
 }
 
 .sidebarText {
-  display: inline;
   padding: 7px;
 }
 

@@ -196,7 +196,7 @@ class PMSyncGridViewer extends React.Component {
         <button onClick={() => this.onSetSidebarOpen(!this.state.sidebarOpen)}
         style={{float: "left", position: "absolute", left: "0%", top:"100px",
          backgroundColor:"#c8e4f4", border: "none", padding:"16px", margin: 10}}>
-          Open info
+          Toggle info
         </button>
 
     const resetButton = <button onClick={() => this.resetClickedHexagons()}
