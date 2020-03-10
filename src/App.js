@@ -80,6 +80,7 @@ class PMSyncGridViewer extends React.Component {
 
       //Control UI elements
       menuOpen: false,
+      disableMenuTransition: true,
 
       sidebarOpen: mql.matches,
       sidebarDocked: mql.matches,
@@ -145,13 +146,21 @@ class PMSyncGridViewer extends React.Component {
 
   /*Controlling menu methods:*/
 
+
+  isMenuOpen(state) {
+    this.setState({
+      menuOpen: state.isOpen,
+      disableMenuTransition: !this.state.disableMenuTransition,
+    });
+  };
   //Called after an object on the menu HAS BEEN CLICKED => Change visible grid
-  handleMenuClick(name){
+  handleMenuItemClick(name){
     if (name !== this.state.activeGrid) {
       this.setState({
         activeGrid: name,
         //Close the menu after changing the grid
         menuOpen: false,
+        disableMenuTransition: true,
         hexagonsClicked: [],
       });
 
@@ -161,10 +170,6 @@ class PMSyncGridViewer extends React.Component {
       });
     }
   }
-
-  isMenuOpen(state) {
-    this.setState({menuOpen: state.isOpen});
-  };
 
   //Creates the left menu allowing user to pick between grids
   renderTrainerMenu() {
@@ -178,7 +183,7 @@ class PMSyncGridViewer extends React.Component {
           pokemon = {singleTrainer[1]}
           trainerPicture = {singleTrainer[2]}
           pokemonPicture = {singleTrainer[3]}
-          onClick = {(name) => this.handleMenuClick(singleTrainer[0])}
+          onClick = {(name) => this.handleMenuItemClick(singleTrainer[0])}
         />
       );
     });
@@ -224,7 +229,7 @@ class PMSyncGridViewer extends React.Component {
     const trainerMenuItems = this.renderTrainerMenu()
     return (
 
-      <div id="menuWrapper" className="menuWrapper">
+      <div id="menuWrapper" className="menuWrapper" >
           <Sidebar
             sidebar={gridTexts}
             open={this.state.sidebarOpen}
@@ -246,9 +251,10 @@ class PMSyncGridViewer extends React.Component {
 
         <Menu key={this.state.activeGrid + "burgermenu"} //This fixes second "flash" rerender of menu when object is clicked
           pageWrapId={"syncGrid"} 
-          outerContainerId={"menuWrapper"} width={350}
+          outerContainerId={"menuWrapper"} width={345}
           isOpen={this.state.menuOpen}
-          onStateChange={(state) => this.isMenuOpen(state)}>
+          onStateChange={(state) => this.isMenuOpen(state)}
+          noTransition={this.state.disableMenuTransition}>
           {trainerMenuItems}
         </Menu>
         <HexagonGrids

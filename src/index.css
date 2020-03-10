@@ -8,11 +8,14 @@ body {
 
 }
 #menuWrapper{
+  background-color: #c8e4f4;
+  background-image: url(./assets/backgrounds/background1.png);
 
 }
 .syncGrid{
-  background-color: #c8e4f4;
+/*  background-color: #c8e4f4;
   background-image: url(./assets/backgrounds/background1.png);
+   */ 
   height: 100vh;
   width: 100vw;
 
