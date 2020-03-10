@@ -198,7 +198,8 @@ body {
     left: -30%;
   }
 
-/*  .currentTrainer img{
+/*Works fine on browser but not certain phones without this*/
+  .currentTrainer img{
     max-width: 256px;
     height: 20vw;
     width: 20vw;
@@ -208,5 +209,9 @@ body {
     height: 20vw;
     width: 20vw;
 
-  }*/
+  }
+
+  .sidebarElement img{
+    height: 70%;
+  }
 }
