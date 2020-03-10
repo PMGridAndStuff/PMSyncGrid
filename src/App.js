@@ -42,6 +42,7 @@ function MenuItem(props) {
 
 //Width at which the sidebar will remain docked
 const mql = window.matchMedia(`(min-width: 1337px)`);
+const disableSidebarButton = window.matchMedia(`(max-width: 440px)`);
 
 class PMSyncGridViewer extends React.Component {
   constructor(props){
@@ -86,6 +87,7 @@ class PMSyncGridViewer extends React.Component {
     this.onSetSidebarOpen = this.onSetSidebarOpen.bind(this);
     this.mediaQueryChanged = this.mediaQueryChanged.bind(this);
     mql.addListener(this.mediaQueryChanged);
+    disableSidebarButton.addListener(this.mediaQueryChanged);
   }
 
   //Lift state from each syncHexagon so we can update sidebar
@@ -195,7 +197,8 @@ class PMSyncGridViewer extends React.Component {
     const hideSidebarButton =  mql.matches ? null : 
         <button onClick={() => this.onSetSidebarOpen(!this.state.sidebarOpen)}
         style={{float: "left", position: "absolute", left: "0%", top:"100px",
-         backgroundColor:"#c8e4f4", border: "none", padding:"16px", margin: 10}}>
+         backgroundColor:"#c8e4f4", border: "none", padding:"16px", margin: 10}}
+         disabled={disableSidebarButton.matches ? true : false}>
           Toggle info
         </button>
 
