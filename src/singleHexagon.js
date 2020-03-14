@@ -33,12 +33,6 @@ class SyncHexagon extends React.Component {
     });
   }
 
-  handleClick() {
-    this.setState({
-      isSelected : !this.state.isSelected
-    });
-  }
-
   renderHoverOverlay(){
     if (this.state.isHovering) {
       return <img src={hover} alt="hover"/>
@@ -85,8 +79,8 @@ class SyncHexagon extends React.Component {
     return (
       <div className='singleGrid'
         data-tip = {this.props.info}
-        onClick = {() => {this.props.onClick();
-                          this.handleClick();}}
+        onClick = {() => {this.props.onClick()}}
+                          //this.handleClick();}}
         onMouseEnter={() => this.handleMouseHoverEnter()}
         onMouseLeave={() => this.handleMouseHoverLeave()}
         style={
@@ -100,7 +94,7 @@ class SyncHexagon extends React.Component {
         <img src={this.state.isSelected ? this.props.bgSelectedImage : this.props.bgGreyImage } 
           alt="Missing bg"/>
 
-        <div className='boostSymbol'>
+        <div className='boostSymbol show'>
           <img src={this.state.isSelected ? this.props.boostIconGrey : this.props.boostIcon}
            alt={this.props.hexCoords.q + ' , ' + this.props.hexCoords.r} style={{fontSize: 25}}/>
         </div>

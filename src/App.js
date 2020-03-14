@@ -6,6 +6,8 @@ import Sidebar from "react-sidebar";
 import './App.css';
 import './Menu.css';
 
+import * as hexHelper from './hexagons.js';
+
 import HexagonGrids from './hexagonGrids.js';
 import GridEffectSidebar from './gridEffectSidebar.js';
 
@@ -20,12 +22,21 @@ const QUERY_STRING_NAME = 'grid=';
 //Default trainer to show
 let currentTrainer = 'karen';
 
+//TODO: move these functions at some point 
 function hex2bin(hex){
     return (parseInt(hex, 16).toString(2));
 }
 
 function bin2hex(bin){
   return parseInt(bin, 2).toString(16);
+}
+
+function getAllNeighbours(hex){
+  let neighbours = [];
+  for (let singleDirection of hexHelper.hex_directions){
+    neighbours.push(hexHelper.hex_add(hex, singleDirection));
+  }
+  return neighbours;
 }
 
 //Single item in the grid choosing menu
@@ -49,6 +60,7 @@ class PMSyncGridViewer extends React.Component {
     super(props);
 
     let hexagonsClicked = [];
+    let hexagonClickedNeighbours = [];
 
     const trainerParam = this.props.match.params.gridName;
 
@@ -77,6 +89,7 @@ class PMSyncGridViewer extends React.Component {
     this.state = {
       activeGrid: currentTrainer,
       hexagonsClicked: hexagonsClicked,
+      hexagonClickedNeighbours: hexagonClickedNeighbours,
 
       //Control UI elements
       menuOpen: false,
@@ -92,16 +105,19 @@ class PMSyncGridViewer extends React.Component {
   }
 
   //Lift state from each syncHexagon so we can update sidebar
-  handleSingleGridClick(hex){
-
+  handleSingleGridClick(gridNumber, hex){
+    //Get neighbours of hex to change their image
+    const hexagonClickedNeighbours = this.state.hexagonClickedNeighbours.slice();
+ 
     const hexagonsClicked = this.state.hexagonsClicked.slice();
-    if (hexagonsClicked.includes(hex)){
-      hexagonsClicked.splice(hexagonsClicked.indexOf(hex), 1)
+    if (hexagonsClicked.includes(gridNumber)){
+      //Remove the element
+      hexagonsClicked.splice(hexagonsClicked.indexOf(gridNumber), 1)
       this.setState({
         hexagonsClicked : hexagonsClicked,
       });
     } else {
-      hexagonsClicked.push(hex);
+      hexagonsClicked.push(gridNumber);
       this.setState({
         hexagonsClicked : hexagonsClicked,
       });
@@ -257,13 +273,15 @@ class PMSyncGridViewer extends React.Component {
           noTransition={this.state.disableMenuTransition}>
           {trainerMenuItems}
         </Menu>
-        <HexagonGrids
-          key = {this.state.activeGrid}
-          gridInfo = {trainerInfo[this.state.activeGrid][4]}
-          singleGridClicked = {(hex) => this.handleSingleGridClick(hex)}
-          hexagonsClicked = {this.state.hexagonsClicked}
-        >
-       </HexagonGrids>
+        <div className={this.state.menuOpen ? "gridWrapper hide" : "gridWrapper"}>
+          <HexagonGrids
+            key = {this.state.activeGrid}
+            gridInfo = {trainerInfo[this.state.activeGrid][4]}
+            singleGridClicked = {(hex) => this.handleSingleGridClick(hex)}
+            hexagonsClicked = {this.state.hexagonsClicked}
+          >
+         </HexagonGrids>
+        </div>
 
        {hideSidebarButton}
        {resetButton}

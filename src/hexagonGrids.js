@@ -41,6 +41,7 @@ class HexagonGrids extends React.Component {
   //Creates a single hexagon tile and returns it
   renderHexagon(gridNumber, info, syncLevel, layout, q, r, colour=null, iconType=null){
     if ((colour && iconType) || addingNewGridDebug) {
+      const hex = hexHelper.Hex(q,r,-q-r);
       //Change key to update if reset button is clicked
       const update = this.props.hexagonsClicked.includes(gridNumber) ? "yes" : '';
       return (
@@ -51,7 +52,7 @@ class HexagonGrids extends React.Component {
           syncLevel = {syncLevel}
           gridNumber = {gridNumber}
           layout = {layout}
-          hexCoords = {hexHelper.Hex(q,r,-q-r)}
+          hexCoords = {hex}
 
           bgSelectedImage = {images.baseGrids[colour][0]}
           bgGreyImage = {images.baseGrids[colour][1]}
@@ -59,7 +60,7 @@ class HexagonGrids extends React.Component {
           //If adding grids, show coords of the ones that are NOT set
           boostIcon = {iconType ? images.icons[iconType][0] : null}
           boostIconGrey = {iconType ? images.icons[iconType][1] : null}
-          onClick = {() => this.props.singleGridClicked(gridNumber)}
+          onClick = {() => this.props.singleGridClicked(gridNumber, hex)}
           //onHover={(i) => this.handleMouseHover(i)}
           isSelected = {this.props.hexagonsClicked.includes(gridNumber)}
         />
