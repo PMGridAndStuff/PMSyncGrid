@@ -62,7 +62,12 @@ body {
 
 .singleGridInfo {
   position: absolute;
+  overflow: hidden;
 
+  left: 20%;
+  top: 20%;
+
+  z-index: 4;
 
 }
 

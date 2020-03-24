@@ -24,4 +24,5 @@ yarn-error.log*
 
 /src/gridInfo/*.txt
 /src/notes.txt
+/src/*.py
 /public

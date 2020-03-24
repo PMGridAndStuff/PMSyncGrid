@@ -76,6 +76,7 @@ class SyncHexagon extends React.Component {
   }
 
   render () {
+    const infoSplit = this.props.info.split('<br/>');
     return (
       <div className='singleGrid'
         data-tip = {this.props.info}
@@ -87,6 +88,12 @@ class SyncHexagon extends React.Component {
           {transform: `translate(${this.state.point.x+600}px, ${this.state.point.y+600}px)`}
         }
       >
+        <div className='singleGridInfo'>
+          {
+            //infoSplit[0]
+          }
+        </div>
+
         <div className='selectedOverlay'>
           {this.renderSelectedOverlay()}
         </div>
