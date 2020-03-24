@@ -2,8 +2,8 @@ import sys
 import re
 import json
 
-POKEMON_TYPE = "steel"
-REDvYELLOW = "red"
+POKEMON_TYPE = "bug"
+REDvYELLOW = "yellow"
 
 
 blueEffectNames = ["HP", "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed"]

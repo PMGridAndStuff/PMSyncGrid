@@ -1,0 +1,770 @@
+[
+    {
+        "grid1": {
+            "coords": [
+                1,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid2": {
+            "coords": [
+                1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid3": {
+            "coords": [
+                0,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid4": {
+            "coords": [
+                -1,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid5": {
+            "coords": [
+                -1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid6": {
+            "coords": [
+                0,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid7": {
+            "coords": [
+                1,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid8": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Psybeam: Power",
+            "effectValue": 4,
+            "effectDescription": "Psybeam: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid9": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Psybeam: Power",
+            "effectValue": 4,
+            "effectDescription": "Psybeam: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid10": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Psybeam: Power",
+            "effectValue": 4,
+            "effectDescription": "Psybeam: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid11": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Psybeam: Move Gauge Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Psybeam Occasionally increases the user’s move gauge by one when a move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid12": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Psybeam: Power",
+            "effectValue": 4,
+            "effectDescription": "Psybeam: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid13": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Psybeam: Power",
+            "effectValue": 4,
+            "effectDescription": "Psybeam: Power ↑ 4",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid14": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Psybeam: Move Gauge Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Psybeam Occasionally increases the user’s move gauge by one when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid15": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Psybeam: Power",
+            "effectValue": 4,
+            "effectDescription": "Psybeam: Power ↑ 4",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid16": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Psybeam: Power",
+            "effectValue": 4,
+            "effectDescription": "Psybeam: Power ↑ 4",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid17": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Psybeam: Power",
+            "effectValue": 4,
+            "effectDescription": "Psybeam: Power ↑ 4",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid18": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Thunder Wave: Move Gauge Refresh",
+            "effectValue": 4,
+            "effectDescription": "Move: Thunder Wave Has a good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid19": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid20": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "We’re Not Done Yet!: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: We’re Not Done Yet! Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid21": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid22": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Def",
+            "effectValue": 10,
+            "effectDescription": "Sp. Def 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid23": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid24": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 9,
+            "orbCost": 108,
+            "effectName": "Thunder Wave: Satisfied Snarl",
+            "effectValue": 9,
+            "effectDescription": "Move: Thunder Wave Lowers the target’s Sp. Atk when a move targeting that opponent is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid25": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Confusion Synergy",
+            "effectValue": 5,
+            "effectDescription": "Powers up moves when the target is confused.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid26": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Aggravation",
+            "effectValue": 1,
+            "effectDescription": "Raises the chance of inflicting the flinching, confused, or trapped condition with the additional effects of moves.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid27": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid28": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Def",
+            "effectValue": 10,
+            "effectDescription": "Sp. Def 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid29": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Grand Entry",
+            "effectValue": 1,
+            "effectDescription": "Raises the user’s Sp. Atk when the Pokémon enters a battle.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid30": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Atk",
+            "effectValue": 10,
+            "effectDescription": "Sp. Atk 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid31": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid32": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Defense",
+            "effectValue": 10,
+            "effectDescription": "Defense 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid33": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "We’re Not Done Yet!: Master Healer",
+            "effectValue": 2,
+            "effectDescription": "Move: We’re Not Done Yet! Increases the amount of HP restored by the user’s healing moves.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid34": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Fuzzy Strike",
+            "effectValue": 5,
+            "effectDescription": "Powers up sync moves when the target is confused.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid35": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Emergency Huddle",
+            "effectValue": 1,
+            "effectDescription": "Once per battle, raises the Defense of all allied sync pairs when in a pinch.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid36": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid37": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Thunder Wave: Move Gauge Refresh",
+            "effectValue": 4,
+            "effectDescription": "Move: Thunder Wave Has a good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid38": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid39": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid40": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "X Speed: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: X Speed Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid41": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid42": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Defense",
+            "effectValue": 10,
+            "effectDescription": "Defense 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid43": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Pump Up",
+            "effectValue": 2,
+            "effectDescription": "Charges the move gauges of all allied sync pairs by two after using a sync move.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid44": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "X Speed: Pep Rally",
+            "effectValue": 1,
+            "effectDescription": "Move: X Speed Raises the Speed of all allied sync pairs when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid45": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid46": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Paralysis Synergy",
+            "effectValue": 5,
+            "effectDescription": "Powers up moves when the target is paralyzed.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid47": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Mind-Bending Psychic: Power",
+            "effectValue": 25,
+            "effectDescription": "Mind-Bending Psychic: Power ↑ 25",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid48": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Mind-Bending Psychic: Power",
+            "effectValue": 25,
+            "effectDescription": "Mind-Bending Psychic: Power ↑ 25",
+            "syncLevel": 3
+        }
+    }
+]

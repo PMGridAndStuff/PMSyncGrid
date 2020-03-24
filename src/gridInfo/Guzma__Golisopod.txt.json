@@ -1,0 +1,770 @@
+[
+    {
+        "grid1": {
+            "coords": [
+                1,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid2": {
+            "coords": [
+                1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Attack",
+            "effectValue": 5,
+            "effectDescription": "Attack 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid3": {
+            "coords": [
+                0,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid4": {
+            "coords": [
+                -1,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Attack",
+            "effectValue": 5,
+            "effectDescription": "Attack 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid5": {
+            "coords": [
+                -1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid6": {
+            "coords": [
+                0,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid7": {
+            "coords": [
+                1,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Attack",
+            "effectValue": 5,
+            "effectDescription": "Attack 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid8": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid9": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Dire Hit +: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Dire Hit + Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid10": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid11": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Pin Missile: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Pin Missile Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid12": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Pin Missile: Power",
+            "effectValue": 1,
+            "effectDescription": "Pin Missile: Power ↑ 1",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid13": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Attack",
+            "effectValue": 5,
+            "effectDescription": "Attack 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid14": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Pin Missile: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Pin Missile Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid15": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Pin Missile: Power",
+            "effectValue": 1,
+            "effectDescription": "Pin Missile: Power ↑ 1",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid16": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Pin Missile: Power",
+            "effectValue": 1,
+            "effectDescription": "Pin Missile: Power ↑ 1",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid17": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Pin Missile: Power",
+            "effectValue": 1,
+            "effectDescription": "Pin Missile: Power ↑ 1",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid18": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid19": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid20": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "First Impression: Power",
+            "effectValue": 5,
+            "effectDescription": "First Impression: Power ↑ 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid21": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid22": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Burst In",
+            "effectValue": 0,
+            "effectDescription": "Ensures that the user’s next attack will be a critical hit when the Pokémon enters a battle.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid23": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "First Impression: Power",
+            "effectValue": 5,
+            "effectDescription": "First Impression: Power ↑ 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid24": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "First Impression: Power",
+            "effectValue": 5,
+            "effectDescription": "First Impression: Power ↑ 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid25": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid26": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "First Impression: Mad Strength",
+            "effectValue": 4,
+            "effectDescription": "Move: First Impression Has a good chance of raising the Pokémon’s Attack when one of its attacks is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid27": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "First Impression: Power",
+            "effectValue": 5,
+            "effectDescription": "First Impression: Power ↑ 5",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid28": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "First Impression: Propulsion",
+            "effectValue": 4,
+            "effectDescription": "Move: First Impression Has a good of reducing the user’s sync move countdown by one when the user’s move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid29": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid30": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Defense",
+            "effectValue": 10,
+            "effectDescription": "Defense 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid31": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid32": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "On the Run",
+            "effectValue": 2,
+            "effectDescription": "Once per battle, sharply raises the user’s evasiveness in a pinch.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid33": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid34": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid35": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Your Boy’s X-Scissor: Power",
+            "effectValue": 25,
+            "effectDescription": "Your Boy’s X-Scissor: Power ↑ 25",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid36": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Critastrophe",
+            "effectValue": 2,
+            "effectDescription": "Powers up sync moves if they become critical hits.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid37": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 15,
+            "orbCost": 180,
+            "effectName": "No Quarter",
+            "effectValue": 0,
+            "effectDescription": "Maximizes the number of times multistrike moves hit when the user’s multistrike move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid38": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid39": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid40": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Beat ’Em Down!: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Beat ’Em Down! Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid41": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Beat ’Em Down!: Barricade",
+            "effectValue": 1,
+            "effectDescription": "Move: Beat ’Em Down! Raises the user’s Sp. Def when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid42": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Vigilance",
+            "effectValue": 0,
+            "effectDescription": "The Pokémon is protected against critical hits.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid43": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Def",
+            "effectValue": 10,
+            "effectDescription": "Sp. Def 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid44": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Your Boy’s X-Scissor: Power",
+            "effectValue": 25,
+            "effectDescription": "Your Boy’s X-Scissor: Power ↑ 25",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid45": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid46": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "First Aid",
+            "effectValue": 4,
+            "effectDescription": "Restores a bit of the Pokémon’s HP once during battle when the Pokémon is in a pinch.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid47": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Your Boy’s X-Scissor: Power",
+            "effectValue": 25,
+            "effectDescription": "Your Boy’s X-Scissor: Power ↑ 25",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid48": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Your Boy’s X-Scissor: Power",
+            "effectValue": 25,
+            "effectDescription": "Your Boy’s X-Scissor: Power ↑ 25",
+            "syncLevel": 3
+        }
+    }
+]

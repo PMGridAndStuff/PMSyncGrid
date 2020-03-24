@@ -1,0 +1,770 @@
+[
+    {
+        "grid1": {
+            "coords": [
+                1,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid2": {
+            "coords": [
+                1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid3": {
+            "coords": [
+                0,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid4": {
+            "coords": [
+                -1,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid5": {
+            "coords": [
+                -1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid6": {
+            "coords": [
+                0,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid7": {
+            "coords": [
+                1,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid8": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid9": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "poison",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Smog: Power",
+            "effectValue": 6,
+            "effectDescription": "Smog: Power ↑ 6",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid10": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid11": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "poison",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Smog: Accuracy",
+            "effectValue": 20,
+            "effectDescription": "Smog: Accuracy ↑ 20",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid12": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "poison",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Smog: Power",
+            "effectValue": 6,
+            "effectDescription": "Smog: Power ↑ 6",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid13": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "poison",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Smog: Power",
+            "effectValue": 6,
+            "effectDescription": "Smog: Power ↑ 6",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid14": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Smog: Move Gauge Refresh",
+            "effectValue": 4,
+            "effectDescription": "Move: Smog Has a good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid15": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Burst In",
+            "effectValue": 0,
+            "effectDescription": "Ensures that the user’s next attack will be a critical hit when the Pokémon enters a battle.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid16": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "poison",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Smog: Power",
+            "effectValue": 6,
+            "effectDescription": "Smog: Power ↑ 6",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid17": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Harry",
+            "effectValue": 3,
+            "effectDescription": "Powers up moves when the target is flinching.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid18": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid19": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid20": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Sludge Wave: Move Gauge Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Sludge Wave Occasionally increases the user’s move gauge by one when a move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid21": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid22": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid23": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "poison",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Sludge Wave: Power",
+            "effectValue": 4,
+            "effectDescription": "Sludge Wave: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid24": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "poison",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Sludge Wave: Power",
+            "effectValue": 4,
+            "effectDescription": "Sludge Wave: Power ↑ 4",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid25": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Sludge Wave: Move Gauge Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Sludge Wave Occasionally increases the user’s move gauge by one when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid26": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "poison",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Sludge Wave: Power",
+            "effectValue": 4,
+            "effectDescription": "Sludge Wave: Power ↑ 4",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid27": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "poison",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Sludge Wave: Power",
+            "effectValue": 4,
+            "effectDescription": "Sludge Wave: Power ↑ 4",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid28": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "poison",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Sludge Wave: Power",
+            "effectValue": 4,
+            "effectDescription": "Sludge Wave: Power ↑ 4",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid29": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid30": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Defense",
+            "effectValue": 20,
+            "effectDescription": "Defense 20",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid31": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Outta My Way!: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Outta My Way! Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid32": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Smog: Staggering",
+            "effectValue": 4,
+            "effectDescription": "Move: Smog Has a good chance of making the target flinch when an attack is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid33": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid34": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Agile Entry",
+            "effectValue": 2,
+            "effectDescription": "Sharply raises the user’s evasiveness when the Pokémon enters a battle.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid35": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Endurance",
+            "effectValue": 0,
+            "effectDescription": "If the Pokémon enters battle with full HP, allows it to endure a single overwhelming attack with 1 HP left.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid36": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Sp. Def",
+            "effectValue": 20,
+            "effectDescription": "Sp. Def 20",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid37": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Toxic Power",
+            "effectValue": 3,
+            "effectDescription": "Powers up moves when the target is poisoned or badly poisoned.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid38": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid39": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid40": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Move Gauge Boost: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Move Gauge Boost Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid41": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Defense",
+            "effectValue": 10,
+            "effectDescription": "Defense 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid42": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid43": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Move Gauge Boost: Move Gauge Refresh",
+            "effectValue": 9,
+            "effectDescription": "Move: Move Gauge Boost Increases the user’s move gauge by one when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid44": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Inertia",
+            "effectValue": 0,
+            "effectDescription": "The higher the user’s Speed, the more it powers up sync moves.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid45": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Build Up",
+            "effectValue": 0,
+            "effectDescription": "Ensures that the user’s next attack will be a critical hit after using a sync move.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid46": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Sp. Atk",
+            "effectValue": 30,
+            "effectDescription": "Sp. Atk 30",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid47": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "poison",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Wicked Enforcer Acid Downpour: Power",
+            "effectValue": 25,
+            "effectDescription": "Wicked Enforcer Acid Downpour: Power ↑ 25",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid48": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "poison",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Wicked Enforcer Acid Downpour: Power",
+            "effectValue": 25,
+            "effectDescription": "Wicked Enforcer Acid Downpour: Power ↑ 25",
+            "syncLevel": 3
+        }
+    }
+]

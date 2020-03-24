@@ -1,0 +1,770 @@
+[
+    {
+        "grid1": {
+            "coords": [
+                1,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid2": {
+            "coords": [
+                1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid3": {
+            "coords": [
+                0,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid4": {
+            "coords": [
+                -1,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid5": {
+            "coords": [
+                -1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid6": {
+            "coords": [
+                0,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid7": {
+            "coords": [
+                1,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid8": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Infestation: Power",
+            "effectValue": 6,
+            "effectDescription": "Infestation: Power ↑ 6",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid9": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Infestation: Power",
+            "effectValue": 6,
+            "effectDescription": "Infestation: Power ↑ 6",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid10": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Infestation: Power",
+            "effectValue": 6,
+            "effectDescription": "Infestation: Power ↑ 6",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid11": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Infestation: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Infestation Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid12": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Infestation: Power",
+            "effectValue": 6,
+            "effectDescription": "Infestation: Power ↑ 6",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid13": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Infestation: Power",
+            "effectValue": 6,
+            "effectDescription": "Infestation: Power ↑ 6",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid14": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Infestation: Power",
+            "effectValue": 6,
+            "effectDescription": "Infestation: Power ↑ 6",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid15": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Speed",
+            "effectValue": 10,
+            "effectDescription": "Speed 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid16": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Speed",
+            "effectValue": 10,
+            "effectDescription": "Speed 10",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid17": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "X Speed: Ramp Up",
+            "effectValue": 1,
+            "effectDescription": "Move: X Speed Raises the user’s Sp. Atk when a move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid18": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid19": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid20": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "X Speed: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: X Speed Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid21": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Atk",
+            "effectValue": 10,
+            "effectDescription": "Sp. Atk 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid22": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Defense",
+            "effectValue": 10,
+            "effectDescription": "Defense 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid23": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Stationary Target",
+            "effectValue": 5,
+            "effectDescription": "Powers up moves when the target is trapped.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid24": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Refreshing Rain",
+            "effectValue": 1,
+            "effectDescription": "Restores the Pokémon’s HP whenever it takes an action when the weather is rainy.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid25": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Def",
+            "effectValue": 10,
+            "effectDescription": "Sp. Def 10",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid26": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Raging Rain",
+            "effectValue": 5,
+            "effectDescription": "Powers up moves when the weather is rainy.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid27": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid28": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Shower Power",
+            "effectValue": 5,
+            "effectDescription": "Powers up sync moves when the weather is rainy.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid29": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Just Fantastic!: MP Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Just Fantastic! Occasionally restores one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid30": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid31": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Just Fantastic!: MP Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Just Fantastic! Occasionally restores one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid32": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Stationary Target",
+            "effectValue": 5,
+            "effectDescription": "Powers up moves when the target is trapped.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid33": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Pokey Trap",
+            "effectValue": 2,
+            "effectDescription": "Increases the amount of damage the target takes from being trapped.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid34": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid35": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Trip Wire",
+            "effectValue": 1,
+            "effectDescription": "Lowers the Speed of all opposing sync pairs when the Pokémon enters a battle.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid36": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid37": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Struggle Bug: Power",
+            "effectValue": 5,
+            "effectDescription": "Struggle Bug: Power ↑ 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid38": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Struggle Bug: Power",
+            "effectValue": 5,
+            "effectDescription": "Struggle Bug: Power ↑ 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid39": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Struggle Bug: Power",
+            "effectValue": 5,
+            "effectDescription": "Struggle Bug: Power ↑ 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid40": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Struggle Bug: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Struggle Bug Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid41": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Struggle Bug: Power",
+            "effectValue": 5,
+            "effectDescription": "Struggle Bug: Power ↑ 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid42": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Struggle Bug: Power",
+            "effectValue": 5,
+            "effectDescription": "Struggle Bug: Power ↑ 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid43": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Struggle Bug: Power",
+            "effectValue": 5,
+            "effectDescription": "Struggle Bug: Power ↑ 5",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid44": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Atk",
+            "effectValue": 10,
+            "effectDescription": "Sp. Atk 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid45": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Atk",
+            "effectValue": 10,
+            "effectDescription": "Sp. Atk 10",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid46": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "yellow",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "First Aid",
+            "effectValue": 4,
+            "effectDescription": "Restores a bit of the Pokémon’s HP once during battle when the Pokémon is in a pinch.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid47": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Silver Wind Victory Shot: Power",
+            "effectValue": 25,
+            "effectDescription": "Silver Wind Victory Shot: Power ↑ 25",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid48": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "bug",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Silver Wind Victory Shot: Power",
+            "effectValue": 25,
+            "effectDescription": "Silver Wind Victory Shot: Power ↑ 25",
+            "syncLevel": 3
+        }
+    }
+]

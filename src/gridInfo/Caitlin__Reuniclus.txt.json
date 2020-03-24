@@ -1,0 +1,770 @@
+[
+    {
+        "grid1": {
+            "coords": [
+                1,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid2": {
+            "coords": [
+                1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid3": {
+            "coords": [
+                0,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid4": {
+            "coords": [
+                -1,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid5": {
+            "coords": [
+                -1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid6": {
+            "coords": [
+                0,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid7": {
+            "coords": [
+                1,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid8": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Psychic: Power",
+            "effectValue": 4,
+            "effectDescription": "Psychic: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid9": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Psychic: Power",
+            "effectValue": 4,
+            "effectDescription": "Psychic: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid10": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Psychic: Power",
+            "effectValue": 4,
+            "effectDescription": "Psychic: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid11": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid12": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Psychic: Power",
+            "effectValue": 4,
+            "effectDescription": "Psychic: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid13": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Psychic: Power",
+            "effectValue": 4,
+            "effectDescription": "Psychic: Power ↑ 4",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid14": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid15": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Psychic: Move Gauge Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Psychic Occasionally increases the user’s move gauge by one when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid16": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Psychic: Power",
+            "effectValue": 4,
+            "effectDescription": "Psychic: Power ↑ 4",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid17": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Psychic: Move Gauge Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Psychic Occasionally increases the user’s move gauge by one when a move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid18": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid19": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Don’t Bore Me!: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Don’t Bore Me! Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid20": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Snow Shelter",
+            "effectValue": 0,
+            "effectDescription": "Protects the Pokémon from damage from a hailstorm.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid21": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Defense",
+            "effectValue": 10,
+            "effectDescription": "Defense 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid22": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Natural Remedy",
+            "effectValue": 0,
+            "effectDescription": "Once per battle, removes all status conditions from the user when the user is inflicted by any status condition.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid23": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid24": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid25": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Healthy Healing",
+            "effectValue": 0,
+            "effectDescription": "Makes the user gradually heal itself if its HP is full when it enters a battle.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid26": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Catalytic Cure",
+            "effectValue": 2,
+            "effectDescription": "Occasionally restores the user’s HP when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid27": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Sp. Atk",
+            "effectValue": 10,
+            "effectDescription": "Sp. Atk 10",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid28": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "HP",
+            "effectValue": 50,
+            "effectDescription": "HP 50",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid29": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Hidden Power: Power",
+            "effectValue": 4,
+            "effectDescription": "Hidden Power: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid30": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Hidden Power: Power",
+            "effectValue": 4,
+            "effectDescription": "Hidden Power: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid31": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Hidden Power: Move Gauge Refresh",
+            "effectValue": 4,
+            "effectDescription": "Move: Hidden Power Has a good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid32": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Hidden Power: Power",
+            "effectValue": 4,
+            "effectDescription": "Hidden Power: Power ↑ 4",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid33": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Hidden Power: Power",
+            "effectValue": 4,
+            "effectDescription": "Hidden Power: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid34": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Broken Sleep Psychic: Power",
+            "effectValue": 25,
+            "effectDescription": "Broken Sleep Psychic: Power ↑ 25",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid35": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Hidden Power: Hype Up",
+            "effectValue": 1,
+            "effectDescription": "Move: Hidden Power Has a small chance of raising the Sp. Atk of all allied sync pairs when the user’s Pokémon uses a move.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid36": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Hidden Power: Power",
+            "effectValue": 4,
+            "effectDescription": "Hidden Power: Power ↑ 4",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid37": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Hidden Power: Power",
+            "effectValue": 4,
+            "effectDescription": "Hidden Power: Power ↑ 4",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid38": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Move Gauge Boost: MP Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Move Gauge Boost Has a moderately good chance of restoring one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid39": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Sand Shelter",
+            "effectValue": 0,
+            "effectDescription": "Protects the Pokémon from damage from a sandstorm.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid40": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Def",
+            "effectValue": 10,
+            "effectDescription": "Sp. Def 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid41": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Revenge Boost",
+            "effectValue": 4,
+            "effectDescription": "Has a good chance of increasing the user’s move gauge by one when the user is hit by an attack move.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid42": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Defense",
+            "effectValue": 10,
+            "effectDescription": "Defense 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid43": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Broken Sleep Psychic: Power",
+            "effectValue": 25,
+            "effectDescription": "Broken Sleep Psychic: Power ↑ 25",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid44": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 10,
+            "orbCost": 120,
+            "effectName": "Move Gauge Boost: Move Gauge Refresh",
+            "effectValue": 9,
+            "effectDescription": "Move: Move Gauge Boost Increases the user’s move gauge by one when a move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid45": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Def",
+            "effectValue": 10,
+            "effectDescription": "Sp. Def 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid46": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Hidden Power: Propulsion",
+            "effectValue": 1,
+            "effectDescription": "Move: Hidden Power Has a small chance of reducing the user’s sync move countdown by one when the user’s move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid47": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Broken Sleep Psychic: Power",
+            "effectValue": 25,
+            "effectDescription": "Broken Sleep Psychic: Power ↑ 25",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid48": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "psychic",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Broken Sleep Psychic: Power",
+            "effectValue": 25,
+            "effectDescription": "Broken Sleep Psychic: Power ↑ 25",
+            "syncLevel": 3
+        }
+    }
+]

@@ -1,0 +1,770 @@
+[
+    {
+        "grid1": {
+            "coords": [
+                1,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid2": {
+            "coords": [
+                1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid3": {
+            "coords": [
+                0,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Defense",
+            "effectValue": 5,
+            "effectDescription": "Defense 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid4": {
+            "coords": [
+                -1,
+                1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid5": {
+            "coords": [
+                -1,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid6": {
+            "coords": [
+                0,
+                -1
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 0,
+            "orbCost": 5,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid7": {
+            "coords": [
+                1,
+                -2
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid8": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "electric",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Electroweb: Power",
+            "effectValue": 4,
+            "effectDescription": "Electroweb: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid9": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "electric",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Electroweb: Power",
+            "effectValue": 4,
+            "effectDescription": "Electroweb: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid10": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "electric",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Electroweb: Power",
+            "effectValue": 4,
+            "effectDescription": "Electroweb: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid11": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "electric",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Electroweb: Power",
+            "effectValue": 4,
+            "effectDescription": "Electroweb: Power ↑ 4",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid12": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid13": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "electric",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Electroweb: Power",
+            "effectValue": 4,
+            "effectDescription": "Electroweb: Power ↑ 4",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid14": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Electroweb: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Electroweb Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid15": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 9,
+            "orbCost": 108,
+            "effectName": "Electroweb: Satisfied Snarl",
+            "effectValue": 2,
+            "effectDescription": "Move: Electroweb Occasionally lowers the target’s Sp. Atk when a move targeting that opponent is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid16": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Sp. Atk",
+            "effectValue": 10,
+            "effectDescription": "Sp. Atk 10",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid17": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Mud-Slap: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Mud-Slap Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid18": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid19": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Def",
+            "effectValue": 10,
+            "effectDescription": "Sp. Def 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid20": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Activate!: MP Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Activate! Occasionally restores one MP of the move used if the move is successful.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid21": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid22": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Sp. Atk",
+            "effectValue": 5,
+            "effectDescription": "Sp. Atk 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid23": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Activate!: MP Refresh",
+            "effectValue": 2,
+            "effectDescription": "Move: Activate! Occasionally restores one MP of the move used if the move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid24": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Cakewalk",
+            "effectValue": 0,
+            "effectDescription": "The more the target’s Speed is lowered, the more it powers up sync moves.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid25": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Surging Sand",
+            "effectValue": 5,
+            "effectDescription": "Powers up moves in a sandstorm.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid26": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Sands of Time",
+            "effectValue": 2,
+            "effectDescription": "Quickly charges the move gauge in a sandstorm.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid27": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Sp. Def",
+            "effectValue": 5,
+            "effectDescription": "Sp. Def 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid28": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Refreshing Rain",
+            "effectValue": 1,
+            "effectDescription": "Restores the Pokémon’s HP whenever it takes an action when the weather is rainy.",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid29": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Defense",
+            "effectValue": 10,
+            "effectDescription": "Defense 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid30": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Dizzying Power",
+            "effectValue": 0,
+            "effectDescription": "The more the target’s accuracy is lowered, the more it powers up moves.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid31": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "HP",
+            "effectValue": 20,
+            "effectDescription": "HP 20",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid32": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Sp. Def",
+            "effectValue": 10,
+            "effectDescription": "Sp. Def 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid33": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 8,
+            "orbCost": 96,
+            "effectName": "Mud-Slap: Ramp Up",
+            "effectValue": 1,
+            "effectDescription": "Move: Mud-Slap Raises the user’s Sp. Atk when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid34": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 7,
+            "orbCost": 84,
+            "effectName": "Raging Rain",
+            "effectValue": 5,
+            "effectDescription": "Powers up moves when the weather is rainy.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid35": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 13,
+            "orbCost": 156,
+            "effectName": "Parabolic Charge: Master Healer",
+            "effectValue": 1,
+            "effectDescription": "Move: Parabolic Charge Increases the amount of HP restored by the user’s healing moves.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid36": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "HP",
+            "effectValue": 10,
+            "effectDescription": "HP 10",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid37": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "electric",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Parabolic Charge: Power",
+            "effectValue": 2,
+            "effectDescription": "Parabolic Charge: Power ↑ 2",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid38": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "electric",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Parabolic Charge: Power",
+            "effectValue": 2,
+            "effectDescription": "Parabolic Charge: Power ↑ 2",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid39": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "electric",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Parabolic Charge: Power",
+            "effectValue": 2,
+            "effectDescription": "Parabolic Charge: Power ↑ 2",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid40": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "electric",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Parabolic Charge: Power",
+            "effectValue": 2,
+            "effectDescription": "Parabolic Charge: Power ↑ 2",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid41": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 2,
+            "orbCost": 24,
+            "effectName": "Speed",
+            "effectValue": 5,
+            "effectDescription": "Speed 5",
+            "syncLevel": 1
+        }
+    },
+    {
+        "grid42": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "electric",
+            "energyCost": 3,
+            "orbCost": 36,
+            "effectName": "Parabolic Charge: Power",
+            "effectValue": 2,
+            "effectDescription": "Parabolic Charge: Power ↑ 2",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid43": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 6,
+            "orbCost": 72,
+            "effectName": "Parabolic Charge: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Parabolic Charge Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid44": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 4,
+            "orbCost": 48,
+            "effectName": "Speed",
+            "effectValue": 10,
+            "effectDescription": "Speed 10",
+            "syncLevel": 2
+        }
+    },
+    {
+        "grid45": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "blue",
+            "iconType": "stat",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Sp. Atk",
+            "effectValue": 10,
+            "effectDescription": "Sp. Atk 10",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid46": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "red",
+            "iconType": "unique",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Mud-Slap: Move Gauge Refresh",
+            "effectValue": 3,
+            "effectDescription": "Move: Mud-Slap Has a moderately good chance of increasing the user’s move gauge by one when a move is successful.",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid47": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "electric",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Light-Up-the-World Thunderbolt: Power",
+            "effectValue": 25,
+            "effectDescription": "Light-Up-the-World Thunderbolt: Power ↑ 25",
+            "syncLevel": 3
+        }
+    },
+    {
+        "grid48": {
+            "coords": [
+                0,
+                0
+            ],
+            "colour": "green",
+            "iconType": "electric",
+            "energyCost": 5,
+            "orbCost": 60,
+            "effectName": "Light-Up-the-World Thunderbolt: Power",
+            "effectValue": 25,
+            "effectDescription": "Light-Up-the-World Thunderbolt: Power ↑ 25",
+            "syncLevel": 3
+        }
+    }
+]
