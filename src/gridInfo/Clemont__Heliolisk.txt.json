@@ -114,8 +114,8 @@
     {
         "grid8": {
             "coords": [
-                0,
-                0
+                2,
+                -3
             ],
             "colour": "green",
             "iconType": "electric",
@@ -130,8 +130,8 @@
     {
         "grid9": {
             "coords": [
-                0,
-                0
+                3,
+                -4
             ],
             "colour": "green",
             "iconType": "electric",
@@ -146,8 +146,8 @@
     {
         "grid10": {
             "coords": [
-                0,
-                0
+                1,
+                -3
             ],
             "colour": "green",
             "iconType": "electric",
@@ -162,8 +162,8 @@
     {
         "grid11": {
             "coords": [
-                0,
-                0
+                2,
+                -4
             ],
             "colour": "green",
             "iconType": "electric",
@@ -178,8 +178,8 @@
     {
         "grid12": {
             "coords": [
-                0,
-                0
+                3,
+                -5
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -194,8 +194,8 @@
     {
         "grid13": {
             "coords": [
-                0,
-                0
+                1,
+                -4
             ],
             "colour": "green",
             "iconType": "electric",
@@ -210,8 +210,8 @@
     {
         "grid14": {
             "coords": [
-                0,
-                0
+                2,
+                -5
             ],
             "colour": "red",
             "iconType": "unique",
@@ -226,8 +226,8 @@
     {
         "grid15": {
             "coords": [
-                0,
-                0
+                3,
+                -6
             ],
             "colour": "red",
             "iconType": "unique",
@@ -242,8 +242,8 @@
     {
         "grid16": {
             "coords": [
-                0,
-                0
+                1,
+                -5
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -258,8 +258,8 @@
     {
         "grid17": {
             "coords": [
-                0,
-                0
+                2,
+                -6
             ],
             "colour": "red",
             "iconType": "unique",
@@ -274,8 +274,8 @@
     {
         "grid18": {
             "coords": [
-                0,
-                0
+                -2,
+                1
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -290,8 +290,8 @@
     {
         "grid19": {
             "coords": [
-                0,
-                0
+                -3,
+                2
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -306,8 +306,8 @@
     {
         "grid20": {
             "coords": [
-                0,
-                0
+                -2,
+                2
             ],
             "colour": "red",
             "iconType": "unique",
@@ -322,8 +322,8 @@
     {
         "grid21": {
             "coords": [
-                0,
-                0
+                -3,
+                3
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -338,8 +338,8 @@
     {
         "grid22": {
             "coords": [
-                0,
-                0
+                -1,
+                2
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -354,8 +354,8 @@
     {
         "grid23": {
             "coords": [
-                0,
-                0
+                -2,
+                3
             ],
             "colour": "red",
             "iconType": "unique",
@@ -370,10 +370,10 @@
     {
         "grid24": {
             "coords": [
-                0,
-                0
+                -3,
+                4
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 7,
             "orbCost": 84,
@@ -386,10 +386,10 @@
     {
         "grid25": {
             "coords": [
-                0,
-                0
+                -1,
+                3
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 7,
             "orbCost": 84,
@@ -402,10 +402,10 @@
     {
         "grid26": {
             "coords": [
-                0,
-                0
+                -2,
+                4
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 8,
             "orbCost": 96,
@@ -418,8 +418,8 @@
     {
         "grid27": {
             "coords": [
-                0,
-                0
+                2,
+                -1
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -434,10 +434,10 @@
     {
         "grid28": {
             "coords": [
-                0,
-                0
+                3,
+                -1
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 6,
             "orbCost": 72,
@@ -450,7 +450,7 @@
     {
         "grid29": {
             "coords": [
-                0,
+                2,
                 0
             ],
             "colour": "blue",
@@ -466,10 +466,10 @@
     {
         "grid30": {
             "coords": [
-                0,
+                3,
                 0
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 7,
             "orbCost": 84,
@@ -482,8 +482,8 @@
     {
         "grid31": {
             "coords": [
-                0,
-                0
+                1,
+                1
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -498,8 +498,8 @@
     {
         "grid32": {
             "coords": [
-                0,
-                0
+                2,
+                1
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -514,8 +514,8 @@
     {
         "grid33": {
             "coords": [
-                0,
-                0
+                3,
+                1
             ],
             "colour": "red",
             "iconType": "unique",
@@ -530,10 +530,10 @@
     {
         "grid34": {
             "coords": [
-                0,
-                0
+                1,
+                2
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 7,
             "orbCost": 84,
@@ -546,8 +546,8 @@
     {
         "grid35": {
             "coords": [
-                0,
-                0
+                2,
+                2
             ],
             "colour": "red",
             "iconType": "unique",
@@ -562,8 +562,8 @@
     {
         "grid36": {
             "coords": [
-                0,
-                0
+                -1,
+                -1
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -578,8 +578,8 @@
     {
         "grid37": {
             "coords": [
-                0,
-                0
+                -2,
+                -1
             ],
             "colour": "green",
             "iconType": "electric",
@@ -594,8 +594,8 @@
     {
         "grid38": {
             "coords": [
-                0,
-                0
+                -3,
+                -1
             ],
             "colour": "green",
             "iconType": "electric",
@@ -610,8 +610,8 @@
     {
         "grid39": {
             "coords": [
-                0,
-                0
+                -1,
+                -2
             ],
             "colour": "green",
             "iconType": "electric",
@@ -626,8 +626,8 @@
     {
         "grid40": {
             "coords": [
-                0,
-                0
+                -2,
+                -2
             ],
             "colour": "green",
             "iconType": "electric",
@@ -642,8 +642,8 @@
     {
         "grid41": {
             "coords": [
-                0,
-                0
+                -3,
+                -2
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -658,8 +658,8 @@
     {
         "grid42": {
             "coords": [
-                0,
-                0
+                -1,
+                -3
             ],
             "colour": "green",
             "iconType": "electric",
@@ -674,8 +674,8 @@
     {
         "grid43": {
             "coords": [
-                0,
-                0
+                -2,
+                -3
             ],
             "colour": "red",
             "iconType": "unique",
@@ -690,8 +690,8 @@
     {
         "grid44": {
             "coords": [
-                0,
-                0
+                -3,
+                -3
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -706,8 +706,8 @@
     {
         "grid45": {
             "coords": [
-                0,
-                0
+                -1,
+                -4
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -722,8 +722,8 @@
     {
         "grid46": {
             "coords": [
-                0,
-                0
+                -2,
+                -4
             ],
             "colour": "red",
             "iconType": "unique",
@@ -739,10 +739,10 @@
         "grid47": {
             "coords": [
                 0,
-                0
+                -3
             ],
-            "colour": "green",
-            "iconType": "electric",
+            "colour": "sync",
+            "iconType": "sync",
             "energyCost": 5,
             "orbCost": 60,
             "effectName": "Light-Up-the-World Thunderbolt: Power",
@@ -755,10 +755,10 @@
         "grid48": {
             "coords": [
                 0,
-                0
+                3
             ],
-            "colour": "green",
-            "iconType": "electric",
+            "colour": "sync",
+            "iconType": "sync",
             "energyCost": 5,
             "orbCost": 60,
             "effectName": "Light-Up-the-World Thunderbolt: Power",
