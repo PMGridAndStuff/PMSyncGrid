@@ -114,8 +114,8 @@
     {
         "grid8": {
             "coords": [
-                0,
-                0
+                2,
+                -3
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -130,8 +130,8 @@
     {
         "grid9": {
             "coords": [
-                0,
-                0
+                3,
+                -4
             ],
             "colour": "green",
             "iconType": "poison",
@@ -146,8 +146,8 @@
     {
         "grid10": {
             "coords": [
-                0,
-                0
+                1,
+                -3
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -162,8 +162,8 @@
     {
         "grid11": {
             "coords": [
-                0,
-                0
+                2,
+                -4
             ],
             "colour": "green",
             "iconType": "poison",
@@ -178,8 +178,8 @@
     {
         "grid12": {
             "coords": [
-                0,
-                0
+                3,
+                -5
             ],
             "colour": "green",
             "iconType": "poison",
@@ -194,8 +194,8 @@
     {
         "grid13": {
             "coords": [
-                0,
-                0
+                1,
+                -4
             ],
             "colour": "green",
             "iconType": "poison",
@@ -210,8 +210,8 @@
     {
         "grid14": {
             "coords": [
-                0,
-                0
+                2,
+                -5
             ],
             "colour": "red",
             "iconType": "unique",
@@ -226,10 +226,10 @@
     {
         "grid15": {
             "coords": [
-                0,
-                0
+                3,
+                -6
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 10,
             "orbCost": 120,
@@ -242,8 +242,8 @@
     {
         "grid16": {
             "coords": [
-                0,
-                0
+                1,
+                -5
             ],
             "colour": "green",
             "iconType": "poison",
@@ -258,10 +258,10 @@
     {
         "grid17": {
             "coords": [
-                0,
-                0
+                2,
+                -6
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 10,
             "orbCost": 120,
@@ -274,8 +274,8 @@
     {
         "grid18": {
             "coords": [
-                0,
-                0
+                -1,
+                2
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -290,8 +290,8 @@
     {
         "grid19": {
             "coords": [
-                0,
-                0
+                -2,
+                3
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -306,8 +306,8 @@
     {
         "grid20": {
             "coords": [
-                0,
-                0
+                -3,
+                4
             ],
             "colour": "red",
             "iconType": "unique",
@@ -322,8 +322,8 @@
     {
         "grid21": {
             "coords": [
-                0,
-                0
+                -1,
+                3
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -338,8 +338,8 @@
     {
         "grid22": {
             "coords": [
-                0,
-                0
+                -2,
+                4
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -354,8 +354,8 @@
     {
         "grid23": {
             "coords": [
-                0,
-                0
+                -3,
+                5
             ],
             "colour": "green",
             "iconType": "poison",
@@ -370,8 +370,9 @@
     {
         "grid24": {
             "coords": [
-                0,
-                0
+               -1,
+                4
+
             ],
             "colour": "green",
             "iconType": "poison",
@@ -386,8 +387,8 @@
     {
         "grid25": {
             "coords": [
-                0,
-                0
+                -2,
+                5
             ],
             "colour": "red",
             "iconType": "unique",
@@ -402,8 +403,8 @@
     {
         "grid26": {
             "coords": [
-                0,
-                0
+                -3,
+                6
             ],
             "colour": "green",
             "iconType": "poison",
@@ -418,8 +419,8 @@
     {
         "grid27": {
             "coords": [
-                0,
-                0
+                -1,
+                5
             ],
             "colour": "green",
             "iconType": "poison",
@@ -434,8 +435,8 @@
     {
         "grid28": {
             "coords": [
-                0,
-                0
+                -2,
+                6
             ],
             "colour": "green",
             "iconType": "poison",
@@ -450,8 +451,8 @@
     {
         "grid29": {
             "coords": [
-                0,
-                0
+                2,
+                -1
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -466,8 +467,8 @@
     {
         "grid30": {
             "coords": [
-                0,
-                0
+                3,
+                -1
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -482,7 +483,7 @@
     {
         "grid31": {
             "coords": [
-                0,
+                2,
                 0
             ],
             "colour": "red",
@@ -498,7 +499,7 @@
     {
         "grid32": {
             "coords": [
-                0,
+                3,
                 0
             ],
             "colour": "red",
@@ -514,8 +515,8 @@
     {
         "grid33": {
             "coords": [
-                0,
-                0
+                1,
+                1
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -530,10 +531,10 @@
     {
         "grid34": {
             "coords": [
-                0,
-                0
+                2,
+                1
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 7,
             "orbCost": 84,
@@ -546,10 +547,10 @@
     {
         "grid35": {
             "coords": [
-                0,
-                0
+                3,
+                1
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 7,
             "orbCost": 84,
@@ -562,8 +563,8 @@
     {
         "grid36": {
             "coords": [
-                0,
-                0
+                1,
+                2
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -578,10 +579,10 @@
     {
         "grid37": {
             "coords": [
-                0,
-                0
+                2,
+                2
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 10,
             "orbCost": 120,
@@ -594,8 +595,8 @@
     {
         "grid38": {
             "coords": [
-                0,
-                0
+                -2,
+                1
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -610,8 +611,8 @@
     {
         "grid39": {
             "coords": [
-                0,
-                0
+                -3,
+                1
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -626,7 +627,7 @@
     {
         "grid40": {
             "coords": [
-                0,
+                -2,
                 0
             ],
             "colour": "red",
@@ -642,7 +643,7 @@
     {
         "grid41": {
             "coords": [
-                0,
+                -3,
                 0
             ],
             "colour": "blue",
@@ -658,8 +659,8 @@
     {
         "grid42": {
             "coords": [
-                0,
-                0
+                -1,
+                -1
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -674,8 +675,8 @@
     {
         "grid43": {
             "coords": [
-                0,
-                0
+                -2,
+                -1
             ],
             "colour": "red",
             "iconType": "unique",
@@ -690,10 +691,10 @@
     {
         "grid44": {
             "coords": [
-                0,
-                0
+                -3,
+                -1
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 7,
             "orbCost": 84,
@@ -706,10 +707,10 @@
     {
         "grid45": {
             "coords": [
-                0,
-                0
+                -1,
+                -2
             ],
-            "colour": "red",
+            "colour": "yellow",
             "iconType": "unique",
             "energyCost": 7,
             "orbCost": 84,
@@ -722,8 +723,8 @@
     {
         "grid46": {
             "coords": [
-                0,
-                0
+                -2,
+                -2
             ],
             "colour": "blue",
             "iconType": "stat",
@@ -739,10 +740,10 @@
         "grid47": {
             "coords": [
                 0,
-                0
+                -3
             ],
-            "colour": "green",
-            "iconType": "poison",
+            "colour": "sync",
+            "iconType": "sync",
             "energyCost": 5,
             "orbCost": 60,
             "effectName": "Wicked Enforcer Acid Downpour: Power",
@@ -755,10 +756,10 @@
         "grid48": {
             "coords": [
                 0,
-                0
+                3
             ],
-            "colour": "green",
-            "iconType": "poison",
+            "colour": "sync",
+            "iconType": "sync",
             "energyCost": 5,
             "orbCost": 60,
             "effectName": "Wicked Enforcer Acid Downpour: Power",
